@@ -1,0 +1,2001 @@
+Customer_ID,Age_Group,Gender,City_Tier,Income_Level,Connection_Type,Booking_Method,Booking_Frequency,Digital_Preference,Delivery_Days,Complaint,Overall_Satisfaction
+1,36-50,Prefer not to say,Tier 2,<20k,Domestic,Agent,2-3 months,1,2,1,5
+2,50+,Female,Tier 3,<20k,Domestic,Agent,2-3 months,0,2,1,3
+3,18-25,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,3,0,4
+4,36-50,Prefer not to say,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,0,3,0,2
+5,36-50,Male,Tier 1,20k-50k,Domestic,Website,2-3 months,1,3,0,2
+6,50+,Male,Tier 1,<20k,Domestic,Agent,Monthly,0,3,1,4
+7,18-25,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+8,18-25,Male,Tier 1,50k-1L,Domestic,Agent,3-6 months,0,5,1,2
+9,36-50,Female,Tier 2,<20k,Domestic,Agent,2-3 months,1,2,1,5
+10,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+11,36-50,Male,Tier 2,<20k,Commercial,Agent,Monthly,0,5,1,1
+12,36-50,Female,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,0,3,0,2
+13,36-50,Male,Tier 3,<20k,Domestic,Call,Monthly,1,4,1,1
+14,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Website,2-3 months,1,6,1,1
+15,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,2-3 months,0,2,1,4
+16,18-25,Female,Tier 2,50k-1L,Commercial,Mobile App,2-3 months,0,1,0,5
+17,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,4
+18,50+,Male,Tier 1,50k-1L,Domestic,Call,2-3 months,0,4,1,2
+19,50+,Female,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,4,1,1
+20,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Call,2-3 months,1,4,1,2
+21,26-35,Female,Tier 3,20k-50k,Domestic,Website,2-3 months,1,5,1,2
+22,18-25,Prefer not to say,Tier 1,<20k,Domestic,Agent,3-6 months,1,3,1,3
+23,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,2,0,5
+24,50+,Prefer not to say,Tier 3,50k-1L,Commercial,Mobile App,3-6 months,1,3,0,2
+25,50+,Female,Tier 1,<20k,Domestic,Mobile App,Monthly,1,3,0,4
+26,26-35,Male,Tier 2,20k-50k,Domestic,Call,Monthly,1,2,1,4
+27,26-35,Female,Tier 3,20k-50k,Domestic,Call,2-3 months,1,2,1,3
+28,26-35,Female,Tier 2,50k-1L,Domestic,Call,2-3 months,0,4,1,1
+29,50+,Prefer not to say,Tier 1,1L+,Domestic,Mobile App,2-3 months,0,1,0,5
+30,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,3,0,4
+31,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+32,18-25,Male,Tier 2,<20k,Commercial,Call,2-3 months,1,4,1,3
+33,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+34,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+35,26-35,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,Monthly,0,1,0,5
+36,18-25,Female,Tier 2,20k-50k,Domestic,Call,2-3 months,1,4,1,1
+37,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,3,0,3
+38,18-25,Prefer not to say,Tier 1,1L+,Commercial,Agent,3-6 months,1,6,1,1
+39,18-25,Male,Tier 3,<20k,Domestic,Call,3-6 months,1,2,1,3
+40,36-50,Female,Tier 1,20k-50k,Domestic,Call,3-6 months,0,3,1,2
+41,36-50,Prefer not to say,Tier 2,<20k,Commercial,Agent,3-6 months,1,2,1,5
+42,36-50,Female,Tier 1,1L+,Domestic,Mobile App,3-6 months,1,2,0,3
+43,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,3
+44,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Website,2-3 months,0,5,1,1
+45,50+,Female,Tier 2,1L+,Domestic,Agent,2-3 months,1,4,1,1
+46,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Website,Monthly,0,5,1,1
+47,50+,Female,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,6,1,1
+48,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+49,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,2,0,5
+50,26-35,Female,Tier 3,20k-50k,Domestic,Call,Monthly,0,5,1,2
+51,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,3
+52,26-35,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,3,0,4
+53,36-50,Male,Tier 2,1L+,Commercial,Agent,2-3 months,1,4,1,1
+54,50+,Female,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+55,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,5
+56,50+,Male,Tier 2,50k-1L,Domestic,Agent,Monthly,0,2,1,5
+57,50+,Prefer not to say,Tier 2,<20k,Domestic,Agent,3-6 months,1,3,1,3
+58,18-25,Female,Tier 1,<20k,Commercial,Mobile App,3-6 months,1,2,0,3
+59,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Agent,2-3 months,1,4,1,3
+60,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,Monthly,1,6,1,1
+61,36-50,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,Monthly,1,2,0,5
+62,36-50,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,Monthly,1,3,0,4
+63,18-25,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,2,0,5
+64,18-25,Male,Tier 1,20k-50k,Domestic,Call,Monthly,1,3,1,4
+65,36-50,Female,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+66,26-35,Male,Tier 3,<20k,Domestic,Website,Monthly,0,2,0,4
+67,50+,Male,Tier 1,<20k,Domestic,Agent,Monthly,1,3,1,3
+68,18-25,Female,Tier 3,20k-50k,Domestic,Agent,2-3 months,0,2,1,5
+69,50+,Male,Tier 2,50k-1L,Domestic,Website,Monthly,1,2,0,4
+70,26-35,Male,Tier 1,20k-50k,Commercial,Agent,2-3 months,1,2,1,5
+71,26-35,Female,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,0,3,0,3
+72,26-35,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+73,18-25,Female,Tier 3,<20k,Domestic,Agent,Monthly,1,5,1,1
+74,26-35,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,Monthly,1,2,0,4
+75,18-25,Prefer not to say,Tier 2,<20k,Commercial,Mobile App,Monthly,1,2,0,4
+76,26-35,Female,Tier 2,1L+,Domestic,Call,2-3 months,1,3,1,4
+77,50+,Female,Tier 1,20k-50k,Domestic,Website,Monthly,1,5,1,2
+78,50+,Female,Tier 2,1L+,Domestic,Mobile App,3-6 months,0,1,0,5
+79,36-50,Prefer not to say,Tier 1,<20k,Domestic,Agent,3-6 months,1,3,1,4
+80,50+,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,2,0,3
+81,36-50,Male,Tier 2,<20k,Domestic,Call,2-3 months,0,6,1,1
+82,50+,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,2,0,4
+83,18-25,Female,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,2,1,3
+84,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+85,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Agent,3-6 months,1,5,1,2
+86,36-50,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,2,0,5
+87,26-35,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+88,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,4
+89,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,3
+90,26-35,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,3
+91,50+,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,3
+92,50+,Female,Tier 2,50k-1L,Commercial,Agent,3-6 months,1,4,1,3
+93,26-35,Male,Tier 3,20k-50k,Commercial,Call,Monthly,0,3,1,2
+94,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,3,0,4
+95,26-35,Prefer not to say,Tier 2,1L+,Domestic,Agent,Monthly,1,6,1,1
+96,26-35,Male,Tier 1,50k-1L,Domestic,Mobile App,Monthly,0,3,0,3
+97,26-35,Female,Tier 1,20k-50k,Domestic,Call,2-3 months,0,5,1,1
+98,50+,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,2
+99,26-35,Male,Tier 2,50k-1L,Domestic,Call,3-6 months,1,4,1,3
+100,18-25,Prefer not to say,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,0,1,0,4
+101,36-50,Prefer not to say,Tier 2,<20k,Domestic,Website,3-6 months,1,2,0,5
+102,26-35,Male,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,3,0,4
+103,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,4
+104,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,5
+105,26-35,Male,Tier 1,50k-1L,Domestic,Agent,2-3 months,0,3,1,3
+106,26-35,Prefer not to say,Tier 3,20k-50k,Domestic,Call,3-6 months,1,4,1,1
+107,26-35,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,6,1,1
+108,50+,Female,Tier 1,<20k,Domestic,Website,2-3 months,1,3,0,3
+109,26-35,Female,Tier 2,<20k,Domestic,Website,Monthly,0,5,1,1
+110,36-50,Female,Tier 3,1L+,Domestic,Agent,Monthly,1,5,1,2
+111,50+,Female,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,4
+112,36-50,Female,Tier 3,50k-1L,Domestic,Agent,2-3 months,1,4,1,2
+113,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+114,26-35,Male,Tier 2,50k-1L,Commercial,Agent,3-6 months,1,2,1,3
+115,36-50,Male,Tier 2,20k-50k,Domestic,Call,3-6 months,1,4,1,2
+116,50+,Male,Tier 2,20k-50k,Commercial,Agent,3-6 months,1,5,1,2
+117,18-25,Female,Tier 2,<20k,Commercial,Call,2-3 months,0,3,1,3
+118,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Call,Monthly,1,6,1,1
+119,50+,Male,Tier 2,50k-1L,Domestic,Website,3-6 months,1,5,1,1
+120,18-25,Prefer not to say,Tier 2,1L+,Commercial,Mobile App,Monthly,1,1,0,5
+121,50+,Male,Tier 1,<20k,Domestic,Mobile App,Monthly,0,3,0,2
+122,18-25,Male,Tier 3,50k-1L,Domestic,Call,2-3 months,0,3,1,2
+123,26-35,Prefer not to say,Tier 2,20k-50k,Commercial,Website,3-6 months,1,3,0,4
+124,36-50,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+125,18-25,Male,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,1,0,4
+126,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+127,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,4
+128,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Website,3-6 months,1,3,0,2
+129,50+,Female,Tier 2,50k-1L,Domestic,Agent,3-6 months,1,4,1,2
+130,50+,Prefer not to say,Tier 1,50k-1L,Domestic,Call,2-3 months,1,5,1,1
+131,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Call,3-6 months,1,3,1,3
+132,18-25,Female,Tier 2,1L+,Domestic,Agent,3-6 months,1,2,1,4
+133,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+134,18-25,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,2,0,4
+135,36-50,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,2
+136,18-25,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,0,1,0,5
+137,18-25,Male,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,5
+138,18-25,Prefer not to say,Tier 3,<20k,Commercial,Mobile App,2-3 months,1,1,0,5
+139,36-50,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,3
+140,18-25,Male,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+141,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,3,1,2
+142,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+143,50+,Male,Tier 2,<20k,Domestic,Website,Monthly,1,6,1,1
+144,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,2,0,5
+145,50+,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,1,3,1,3
+146,36-50,Female,Tier 2,50k-1L,Domestic,Agent,3-6 months,0,4,1,3
+147,36-50,Female,Tier 2,20k-50k,Domestic,Website,Monthly,0,3,0,2
+148,36-50,Prefer not to say,Tier 2,<20k,Domestic,Agent,2-3 months,0,3,1,4
+149,18-25,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,4
+150,50+,Male,Tier 2,<20k,Commercial,Mobile App,3-6 months,0,1,0,5
+151,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+152,36-50,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+153,18-25,Male,Tier 2,1L+,Domestic,Mobile App,3-6 months,1,1,0,5
+154,36-50,Female,Tier 2,<20k,Commercial,Agent,Monthly,1,2,1,3
+155,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Call,2-3 months,1,6,1,1
+156,26-35,Female,Tier 2,<20k,Commercial,Call,2-3 months,1,5,1,1
+157,36-50,Male,Tier 3,20k-50k,Domestic,Website,2-3 months,1,3,0,2
+158,26-35,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,1,3,1,3
+159,18-25,Female,Tier 3,1L+,Domestic,Call,2-3 months,0,6,1,1
+160,50+,Prefer not to say,Tier 1,<20k,Domestic,Agent,Monthly,0,2,1,4
+161,36-50,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,2,0,3
+162,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+163,50+,Male,Tier 1,<20k,Domestic,Website,2-3 months,1,6,1,1
+164,50+,Prefer not to say,Tier 1,<20k,Commercial,Website,Monthly,1,3,0,2
+165,26-35,Female,Tier 2,20k-50k,Domestic,Agent,Monthly,1,4,1,1
+166,18-25,Male,Tier 1,<20k,Commercial,Mobile App,Monthly,1,3,0,2
+167,50+,Male,Tier 1,<20k,Domestic,Agent,3-6 months,0,2,1,3
+168,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+169,36-50,Female,Tier 1,20k-50k,Commercial,Mobile App,Monthly,1,3,0,3
+170,26-35,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+171,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,4
+172,18-25,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+173,36-50,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,4
+174,50+,Male,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,3
+175,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+176,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,6,1,1
+177,36-50,Female,Tier 2,20k-50k,Commercial,Call,3-6 months,1,3,1,4
+178,36-50,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,2,0,5
+179,18-25,Male,Tier 2,50k-1L,Commercial,Mobile App,3-6 months,0,3,0,3
+180,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,3-6 months,1,4,1,2
+181,18-25,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,1,6,1,1
+182,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,5
+183,26-35,Female,Tier 3,20k-50k,Domestic,Call,2-3 months,1,5,1,2
+184,36-50,Male,Tier 1,<20k,Commercial,Website,2-3 months,1,4,1,1
+185,18-25,Female,Tier 3,<20k,Domestic,Mobile App,3-6 months,1,2,0,5
+186,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,5
+187,26-35,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+188,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Call,3-6 months,1,2,1,5
+189,36-50,Prefer not to say,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,1,1,0,4
+190,26-35,Male,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,1,1,0,5
+191,36-50,Male,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,2,0,4
+192,36-50,Prefer not to say,Tier 1,50k-1L,Domestic,Website,3-6 months,1,3,0,3
+193,18-25,Male,Tier 3,<20k,Domestic,Agent,2-3 months,1,4,1,1
+194,36-50,Female,Tier 3,50k-1L,Domestic,Call,Monthly,0,6,1,1
+195,36-50,Female,Tier 3,50k-1L,Commercial,Agent,2-3 months,0,5,1,2
+196,26-35,Male,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,3
+197,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,6,1,1
+198,50+,Male,Tier 1,<20k,Domestic,Call,Monthly,0,5,1,1
+199,18-25,Male,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,0,1,0,5
+200,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,Monthly,0,5,1,2
+201,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,3-6 months,1,3,1,4
+202,50+,Female,Tier 2,50k-1L,Domestic,Agent,3-6 months,0,2,1,5
+203,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,5
+204,18-25,Female,Tier 2,20k-50k,Domestic,Website,3-6 months,0,3,0,3
+205,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Website,3-6 months,1,6,1,1
+206,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+207,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,3
+208,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+209,26-35,Female,Tier 1,50k-1L,Domestic,Website,3-6 months,1,6,1,1
+210,18-25,Male,Tier 1,50k-1L,Domestic,Call,2-3 months,1,5,1,1
+211,36-50,Male,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,5
+212,36-50,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,3
+213,18-25,Male,Tier 1,<20k,Domestic,Mobile App,Monthly,0,3,0,4
+214,36-50,Male,Tier 3,50k-1L,Commercial,Call,2-3 months,1,2,1,3
+215,36-50,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,0,2,0,5
+216,18-25,Male,Tier 2,<20k,Domestic,Website,2-3 months,1,6,1,1
+217,50+,Female,Tier 1,20k-50k,Domestic,Call,3-6 months,1,5,1,1
+218,18-25,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,1,5,1,1
+219,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,Monthly,1,1,0,4
+220,36-50,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+221,36-50,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,2-3 months,1,3,0,4
+222,36-50,Female,Tier 2,1L+,Domestic,Mobile App,3-6 months,1,2,0,3
+223,26-35,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,3-6 months,0,3,0,3
+224,50+,Male,Tier 1,<20k,Domestic,Website,2-3 months,1,6,1,1
+225,26-35,Male,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,3
+226,26-35,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+227,18-25,Female,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,3,0,2
+228,26-35,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,3-6 months,0,2,0,3
+229,18-25,Male,Tier 2,20k-50k,Commercial,Website,3-6 months,0,4,1,2
+230,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+231,26-35,Prefer not to say,Tier 1,1L+,Domestic,Mobile App,Monthly,1,3,0,3
+232,50+,Male,Tier 1,20k-50k,Domestic,Call,3-6 months,1,5,1,2
+233,50+,Male,Tier 2,50k-1L,Commercial,Mobile App,2-3 months,1,1,0,5
+234,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,Monthly,1,2,0,5
+235,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,1,0,4
+236,50+,Male,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,0,1,0,5
+237,26-35,Male,Tier 3,50k-1L,Commercial,Mobile App,3-6 months,0,2,0,4
+238,26-35,Female,Tier 2,<20k,Domestic,Mobile App,Monthly,1,3,0,4
+239,36-50,Prefer not to say,Tier 3,<20k,Domestic,Agent,Monthly,0,3,1,4
+240,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+241,26-35,Female,Tier 2,<20k,Domestic,Agent,2-3 months,1,3,1,3
+242,36-50,Prefer not to say,Tier 2,<20k,Domestic,Agent,3-6 months,1,5,1,2
+243,50+,Male,Tier 2,1L+,Domestic,Call,Monthly,0,3,1,3
+244,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,3
+245,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+246,26-35,Female,Tier 1,50k-1L,Domestic,Agent,3-6 months,1,6,1,1
+247,18-25,Male,Tier 2,20k-50k,Domestic,Call,Monthly,1,5,1,2
+248,18-25,Prefer not to say,Tier 1,<20k,Domestic,Call,2-3 months,1,2,1,5
+249,18-25,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,Monthly,1,3,0,2
+250,36-50,Prefer not to say,Tier 2,20k-50k,Commercial,Website,3-6 months,1,3,0,4
+251,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+252,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,5
+253,50+,Prefer not to say,Tier 3,<20k,Commercial,Mobile App,3-6 months,1,1,0,5
+254,18-25,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,3
+255,18-25,Female,Tier 2,1L+,Domestic,Mobile App,Monthly,1,1,0,5
+256,36-50,Prefer not to say,Tier 1,50k-1L,Commercial,Agent,Monthly,1,4,1,2
+257,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,Monthly,1,4,1,3
+258,26-35,Female,Tier 1,50k-1L,Domestic,Agent,Monthly,1,6,1,1
+259,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+260,36-50,Female,Tier 2,50k-1L,Domestic,Call,Monthly,1,4,1,2
+261,18-25,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,2,0,5
+262,26-35,Male,Tier 2,50k-1L,Commercial,Mobile App,3-6 months,0,1,0,4
+263,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+264,18-25,Female,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+265,36-50,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,3
+266,26-35,Female,Tier 2,1L+,Domestic,Mobile App,3-6 months,0,1,0,5
+267,50+,Prefer not to say,Tier 3,20k-50k,Domestic,Call,Monthly,0,6,1,1
+268,50+,Male,Tier 1,50k-1L,Domestic,Website,2-3 months,1,6,1,1
+269,36-50,Male,Tier 3,<20k,Domestic,Mobile App,2-3 months,0,3,0,4
+270,36-50,Male,Tier 3,20k-50k,Domestic,Website,3-6 months,0,4,1,2
+271,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,3-6 months,1,3,1,4
+272,50+,Female,Tier 2,20k-50k,Domestic,Call,2-3 months,0,4,1,3
+273,50+,Male,Tier 3,1L+,Domestic,Call,3-6 months,0,2,1,4
+274,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,2
+275,18-25,Female,Tier 3,50k-1L,Domestic,Agent,2-3 months,1,5,1,1
+276,50+,Prefer not to say,Tier 3,20k-50k,Domestic,Call,Monthly,1,2,1,4
+277,18-25,Female,Tier 2,1L+,Domestic,Website,2-3 months,0,3,0,2
+278,26-35,Prefer not to say,Tier 2,<20k,Domestic,Call,Monthly,1,2,1,5
+279,18-25,Female,Tier 3,50k-1L,Commercial,Agent,2-3 months,1,4,1,1
+280,26-35,Male,Tier 2,20k-50k,Domestic,Agent,3-6 months,0,5,1,1
+281,50+,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,0,1,0,5
+282,50+,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,Monthly,0,1,0,4
+283,26-35,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,1,0,4
+284,36-50,Female,Tier 3,<20k,Domestic,Mobile App,Monthly,1,2,0,3
+285,26-35,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,2,0,5
+286,36-50,Male,Tier 2,<20k,Domestic,Agent,Monthly,1,6,1,1
+287,18-25,Female,Tier 1,<20k,Commercial,Call,3-6 months,1,3,1,3
+288,18-25,Female,Tier 1,<20k,Commercial,Website,2-3 months,1,3,0,3
+289,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Agent,Monthly,1,4,1,3
+290,50+,Male,Tier 1,<20k,Domestic,Call,3-6 months,0,4,1,1
+291,18-25,Female,Tier 1,50k-1L,Domestic,Website,Monthly,1,3,0,3
+292,36-50,Male,Tier 1,<20k,Domestic,Call,2-3 months,1,2,1,4
+293,18-25,Female,Tier 2,1L+,Domestic,Agent,3-6 months,1,3,1,2
+294,26-35,Female,Tier 3,50k-1L,Domestic,Mobile App,Monthly,1,2,0,3
+295,26-35,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+296,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,2
+297,26-35,Female,Tier 2,50k-1L,Domestic,Call,2-3 months,0,5,1,1
+298,36-50,Prefer not to say,Tier 3,1L+,Domestic,Call,3-6 months,1,5,1,2
+299,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,4
+300,50+,Female,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,3
+301,18-25,Female,Tier 2,20k-50k,Domestic,Website,Monthly,0,2,0,5
+302,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Call,3-6 months,0,5,1,1
+303,36-50,Male,Tier 2,20k-50k,Commercial,Mobile App,Monthly,1,2,0,3
+304,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Call,2-3 months,1,4,1,2
+305,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,3-6 months,1,5,1,1
+306,18-25,Male,Tier 2,1L+,Domestic,Website,Monthly,1,4,1,2
+307,50+,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,3,0,3
+308,26-35,Male,Tier 3,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+309,50+,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,2-3 months,0,1,0,5
+310,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,5
+311,50+,Female,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,3,1,3
+312,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+313,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Website,3-6 months,1,2,0,5
+314,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+315,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Website,3-6 months,0,3,0,4
+316,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,5
+317,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,3-6 months,1,2,1,4
+318,18-25,Female,Tier 2,1L+,Domestic,Website,2-3 months,1,3,0,2
+319,36-50,Female,Tier 1,1L+,Domestic,Website,2-3 months,0,6,1,1
+320,26-35,Female,Tier 2,1L+,Domestic,Mobile App,Monthly,1,1,0,5
+321,50+,Female,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,1,2,0,5
+322,18-25,Male,Tier 1,20k-50k,Domestic,Call,2-3 months,1,6,1,1
+323,50+,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,5
+324,26-35,Prefer not to say,Tier 3,1L+,Domestic,Mobile App,3-6 months,0,2,0,3
+325,26-35,Male,Tier 1,<20k,Domestic,Mobile App,2-3 months,0,1,0,5
+326,26-35,Male,Tier 2,20k-50k,Commercial,Call,3-6 months,0,2,1,5
+327,36-50,Prefer not to say,Tier 2,<20k,Domestic,Call,2-3 months,1,3,1,3
+328,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+329,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,3
+330,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,2,0,4
+331,18-25,Male,Tier 2,<20k,Domestic,Call,Monthly,1,2,1,5
+332,18-25,Prefer not to say,Tier 3,20k-50k,Commercial,Mobile App,Monthly,1,1,0,5
+333,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+334,36-50,Prefer not to say,Tier 2,<20k,Domestic,Website,3-6 months,1,6,1,1
+335,26-35,Female,Tier 1,50k-1L,Commercial,Website,Monthly,0,5,1,1
+336,50+,Female,Tier 2,20k-50k,Domestic,Website,2-3 months,0,2,0,4
+337,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,2-3 months,0,4,1,2
+338,36-50,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,2-3 months,1,1,0,4
+339,50+,Prefer not to say,Tier 3,1L+,Domestic,Call,2-3 months,1,5,1,1
+340,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+341,36-50,Female,Tier 3,1L+,Domestic,Call,2-3 months,1,6,1,1
+342,50+,Male,Tier 1,1L+,Domestic,Mobile App,2-3 months,1,1,0,4
+343,36-50,Male,Tier 2,<20k,Domestic,Call,Monthly,1,6,1,1
+344,26-35,Prefer not to say,Tier 2,<20k,Domestic,Call,2-3 months,0,6,1,1
+345,36-50,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+346,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,2-3 months,1,2,1,3
+347,36-50,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,2,0,4
+348,50+,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+349,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+350,36-50,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,1,0,5
+351,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,Monthly,1,3,0,2
+352,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Website,2-3 months,0,2,0,5
+353,18-25,Male,Tier 1,<20k,Domestic,Mobile App,Monthly,1,3,0,2
+354,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,1,0,4
+355,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,1,0,5
+356,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Call,2-3 months,0,6,1,1
+357,26-35,Female,Tier 2,50k-1L,Domestic,Agent,Monthly,1,3,1,3
+358,50+,Male,Tier 1,20k-50k,Domestic,Call,Monthly,1,3,1,3
+359,18-25,Prefer not to say,Tier 2,20k-50k,Commercial,Agent,2-3 months,0,3,1,4
+360,36-50,Male,Tier 2,20k-50k,Domestic,Website,3-6 months,0,3,0,2
+361,50+,Male,Tier 1,50k-1L,Domestic,Agent,3-6 months,1,6,1,1
+362,18-25,Female,Tier 2,50k-1L,Domestic,Call,3-6 months,1,2,1,3
+363,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,4
+364,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Call,2-3 months,0,4,1,2
+365,36-50,Female,Tier 2,<20k,Domestic,Call,3-6 months,1,3,1,3
+366,36-50,Male,Tier 1,20k-50k,Domestic,Agent,Monthly,1,2,1,5
+367,26-35,Male,Tier 2,<20k,Domestic,Agent,3-6 months,1,5,1,1
+368,26-35,Male,Tier 2,1L+,Domestic,Agent,2-3 months,1,2,1,5
+369,36-50,Male,Tier 2,50k-1L,Domestic,Agent,Monthly,0,5,1,1
+370,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,2,0,5
+371,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,5
+372,50+,Female,Tier 3,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+373,26-35,Female,Tier 2,20k-50k,Domestic,Website,3-6 months,1,4,1,1
+374,50+,Prefer not to say,Tier 2,<20k,Domestic,Agent,2-3 months,1,2,1,5
+375,18-25,Prefer not to say,Tier 3,20k-50k,Commercial,Call,2-3 months,1,5,1,2
+376,50+,Male,Tier 2,20k-50k,Commercial,Agent,2-3 months,1,2,1,5
+377,50+,Male,Tier 1,20k-50k,Domestic,Agent,2-3 months,1,5,1,2
+378,18-25,Female,Tier 1,50k-1L,Domestic,Website,Monthly,0,3,0,4
+379,26-35,Prefer not to say,Tier 1,<20k,Domestic,Agent,2-3 months,0,2,1,5
+380,18-25,Female,Tier 3,20k-50k,Domestic,Call,2-3 months,1,5,1,2
+381,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Call,Monthly,0,4,1,2
+382,26-35,Male,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,0,2,0,5
+383,50+,Female,Tier 2,50k-1L,Commercial,Call,Monthly,0,2,1,5
+384,18-25,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,1,0,4
+385,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,0,3,0,3
+386,50+,Male,Tier 2,50k-1L,Domestic,Agent,3-6 months,1,5,1,2
+387,36-50,Female,Tier 2,50k-1L,Domestic,Call,2-3 months,1,2,1,3
+388,36-50,Male,Tier 3,<20k,Domestic,Website,3-6 months,1,3,0,4
+389,18-25,Female,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+390,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+391,36-50,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,2,0,5
+392,36-50,Female,Tier 2,<20k,Commercial,Mobile App,2-3 months,1,1,0,5
+393,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,2
+394,50+,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+395,36-50,Male,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+396,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,5
+397,50+,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,3-6 months,1,3,0,2
+398,26-35,Male,Tier 3,<20k,Commercial,Agent,3-6 months,1,2,1,4
+399,50+,Male,Tier 3,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+400,18-25,Male,Tier 2,50k-1L,Commercial,Call,3-6 months,0,5,1,1
+401,50+,Female,Tier 1,20k-50k,Domestic,Agent,Monthly,1,3,1,3
+402,50+,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+403,36-50,Female,Tier 2,<20k,Commercial,Website,Monthly,1,5,1,2
+404,18-25,Female,Tier 3,20k-50k,Domestic,Agent,3-6 months,0,4,1,2
+405,50+,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,Monthly,1,3,1,2
+406,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,2,0,5
+407,26-35,Female,Tier 3,50k-1L,Domestic,Agent,Monthly,0,3,1,3
+408,50+,Prefer not to say,Tier 3,50k-1L,Domestic,Agent,3-6 months,1,4,1,3
+409,50+,Male,Tier 2,50k-1L,Commercial,Mobile App,2-3 months,0,3,0,3
+410,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,2
+411,36-50,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,4
+412,50+,Female,Tier 1,20k-50k,Commercial,Agent,3-6 months,1,3,1,4
+413,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+414,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,3,1,2
+415,36-50,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+416,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,2,1,4
+417,18-25,Male,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+418,26-35,Male,Tier 1,50k-1L,Commercial,Mobile App,2-3 months,1,2,0,3
+419,50+,Male,Tier 2,50k-1L,Domestic,Call,2-3 months,0,2,1,3
+420,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+421,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+422,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,1,0,5
+423,26-35,Female,Tier 3,20k-50k,Domestic,Call,Monthly,0,2,1,3
+424,36-50,Male,Tier 3,50k-1L,Domestic,Website,Monthly,1,4,1,2
+425,50+,Female,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,2,1,4
+426,18-25,Female,Tier 3,1L+,Domestic,Mobile App,Monthly,0,3,0,2
+427,18-25,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,3,0,2
+428,50+,Female,Tier 2,<20k,Domestic,Call,2-3 months,1,4,1,2
+429,18-25,Male,Tier 1,1L+,Domestic,Agent,3-6 months,1,2,1,3
+430,50+,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,2,0,3
+431,18-25,Male,Tier 2,1L+,Domestic,Mobile App,Monthly,1,1,0,5
+432,26-35,Male,Tier 3,1L+,Domestic,Mobile App,3-6 months,1,2,0,5
+433,18-25,Female,Tier 2,<20k,Domestic,Agent,3-6 months,1,6,1,1
+434,50+,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+435,50+,Male,Tier 2,<20k,Domestic,Agent,2-3 months,0,2,1,5
+436,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+437,50+,Female,Tier 3,<20k,Domestic,Mobile App,Monthly,1,1,0,5
+438,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,Monthly,1,1,0,5
+439,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,4
+440,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,4
+441,18-25,Prefer not to say,Tier 1,1L+,Commercial,Mobile App,2-3 months,0,3,0,3
+442,50+,Female,Tier 2,50k-1L,Commercial,Mobile App,2-3 months,1,2,0,4
+443,18-25,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,2,0,5
+444,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+445,50+,Female,Tier 3,50k-1L,Domestic,Website,Monthly,1,2,0,5
+446,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,2-3 months,0,5,1,1
+447,36-50,Female,Tier 1,50k-1L,Domestic,Call,3-6 months,1,2,1,5
+448,26-35,Female,Tier 2,1L+,Domestic,Mobile App,Monthly,1,2,0,5
+449,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,0,2,0,4
+450,26-35,Male,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,5
+451,26-35,Prefer not to say,Tier 1,50k-1L,Commercial,Call,3-6 months,1,2,1,5
+452,26-35,Male,Tier 1,1L+,Domestic,Mobile App,3-6 months,1,1,0,5
+453,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,0,1,0,4
+454,26-35,Prefer not to say,Tier 3,20k-50k,Domestic,Agent,3-6 months,1,5,1,1
+455,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+456,36-50,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,3,0,4
+457,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,3,0,3
+458,50+,Male,Tier 2,<20k,Domestic,Call,3-6 months,1,2,1,5
+459,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Agent,3-6 months,1,6,1,1
+460,36-50,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,2-3 months,0,1,0,5
+461,26-35,Male,Tier 2,<20k,Commercial,Mobile App,2-3 months,1,3,0,3
+462,18-25,Female,Tier 3,20k-50k,Domestic,Call,Monthly,1,3,1,3
+463,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,4
+464,18-25,Female,Tier 2,<20k,Domestic,Call,2-3 months,0,6,1,1
+465,50+,Female,Tier 1,20k-50k,Domestic,Call,2-3 months,1,4,1,1
+466,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,3
+467,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,4
+468,18-25,Prefer not to say,Tier 3,<20k,Domestic,Call,Monthly,1,6,1,1
+469,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,4
+470,50+,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+471,18-25,Female,Tier 2,<20k,Domestic,Agent,2-3 months,1,4,1,2
+472,50+,Female,Tier 3,50k-1L,Commercial,Mobile App,Monthly,1,1,0,5
+473,36-50,Female,Tier 2,1L+,Domestic,Mobile App,3-6 months,0,3,0,4
+474,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+475,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,3-6 months,0,3,1,2
+476,50+,Prefer not to say,Tier 3,50k-1L,Commercial,Mobile App,2-3 months,1,3,0,3
+477,18-25,Prefer not to say,Tier 1,1L+,Domestic,Website,2-3 months,1,2,0,5
+478,50+,Male,Tier 3,50k-1L,Domestic,Agent,Monthly,1,3,1,2
+479,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,4
+480,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,3
+481,50+,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,5
+482,26-35,Female,Tier 1,<20k,Domestic,Call,Monthly,1,2,1,4
+483,18-25,Female,Tier 1,20k-50k,Commercial,Agent,3-6 months,0,3,1,4
+484,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Call,Monthly,1,6,1,1
+485,18-25,Male,Tier 3,50k-1L,Commercial,Mobile App,Monthly,1,2,0,3
+486,26-35,Male,Tier 1,20k-50k,Domestic,Call,3-6 months,1,4,1,1
+487,36-50,Male,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,5
+488,50+,Prefer not to say,Tier 1,<20k,Commercial,Agent,3-6 months,1,2,1,5
+489,18-25,Female,Tier 3,20k-50k,Domestic,Call,3-6 months,0,3,1,4
+490,18-25,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,3
+491,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,2,0,3
+492,18-25,Female,Tier 2,<20k,Domestic,Agent,3-6 months,1,4,1,1
+493,18-25,Male,Tier 2,1L+,Domestic,Agent,2-3 months,1,2,1,3
+494,26-35,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,1,0,5
+495,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,2,0,5
+496,36-50,Male,Tier 1,1L+,Domestic,Call,3-6 months,1,5,1,1
+497,36-50,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,5
+498,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,2
+499,18-25,Female,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,3
+500,50+,Female,Tier 2,<20k,Domestic,Mobile App,Monthly,1,1,0,5
+501,36-50,Female,Tier 3,50k-1L,Domestic,Call,Monthly,1,5,1,2
+502,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Website,2-3 months,1,5,1,1
+503,18-25,Female,Tier 2,50k-1L,Domestic,Call,2-3 months,1,5,1,1
+504,50+,Male,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,1,1,0,5
+505,36-50,Male,Tier 3,20k-50k,Domestic,Call,Monthly,1,2,1,5
+506,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,3
+507,50+,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,4
+508,36-50,Female,Tier 3,50k-1L,Domestic,Website,2-3 months,1,6,1,1
+509,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+510,26-35,Prefer not to say,Tier 3,20k-50k,Domestic,Website,2-3 months,1,6,1,1
+511,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+512,26-35,Male,Tier 1,20k-50k,Commercial,Call,3-6 months,0,2,1,5
+513,36-50,Female,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,0,3,0,4
+514,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,5
+515,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,4
+516,36-50,Male,Tier 1,1L+,Commercial,Agent,Monthly,1,2,1,3
+517,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,3-6 months,1,5,1,1
+518,26-35,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,5,1,2
+519,50+,Female,Tier 2,50k-1L,Domestic,Agent,Monthly,1,5,1,1
+520,26-35,Male,Tier 2,1L+,Domestic,Agent,2-3 months,1,6,1,1
+521,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,5
+522,36-50,Female,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,5
+523,26-35,Male,Tier 1,50k-1L,Domestic,Call,Monthly,1,4,1,3
+524,36-50,Male,Tier 2,20k-50k,Domestic,Call,Monthly,1,6,1,1
+525,26-35,Female,Tier 3,<20k,Domestic,Agent,3-6 months,1,4,1,3
+526,36-50,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+527,36-50,Male,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,1,0,5
+528,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Website,Monthly,1,3,0,2
+529,26-35,Male,Tier 3,20k-50k,Domestic,Call,3-6 months,1,4,1,3
+530,26-35,Female,Tier 3,1L+,Domestic,Mobile App,3-6 months,1,2,0,5
+531,18-25,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,0,2,1,3
+532,50+,Female,Tier 1,20k-50k,Domestic,Website,2-3 months,1,3,0,2
+533,18-25,Female,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,5
+534,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,Monthly,1,3,1,4
+535,36-50,Female,Tier 2,<20k,Domestic,Website,2-3 months,1,2,0,4
+536,26-35,Female,Tier 1,20k-50k,Domestic,Website,3-6 months,0,2,0,5
+537,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Website,3-6 months,0,3,0,4
+538,36-50,Female,Tier 2,20k-50k,Commercial,Call,3-6 months,1,6,1,1
+539,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+540,26-35,Prefer not to say,Tier 3,20k-50k,Commercial,Mobile App,2-3 months,1,2,0,4
+541,36-50,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,3,0,3
+542,26-35,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+543,36-50,Male,Tier 3,<20k,Domestic,Mobile App,Monthly,0,1,0,5
+544,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+545,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,4
+546,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,4
+547,18-25,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,3,1,3
+548,50+,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,Monthly,0,1,0,5
+549,26-35,Male,Tier 2,<20k,Domestic,Call,3-6 months,1,2,1,3
+550,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,3-6 months,1,6,1,1
+551,18-25,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,0,1,0,5
+552,50+,Female,Tier 1,20k-50k,Domestic,Website,2-3 months,0,6,1,1
+553,18-25,Prefer not to say,Tier 3,<20k,Domestic,Call,2-3 months,1,3,1,2
+554,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,2,0,5
+555,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,2,0,3
+556,50+,Female,Tier 2,<20k,Commercial,Mobile App,Monthly,1,2,0,5
+557,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+558,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+559,50+,Male,Tier 2,<20k,Domestic,Call,3-6 months,1,4,1,1
+560,26-35,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,0,5,1,1
+561,50+,Female,Tier 1,20k-50k,Domestic,Call,Monthly,1,5,1,1
+562,36-50,Male,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,5
+563,36-50,Male,Tier 1,<20k,Domestic,Mobile App,Monthly,1,1,0,5
+564,36-50,Female,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,0,2,0,5
+565,50+,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+566,26-35,Male,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+567,26-35,Prefer not to say,Tier 1,50k-1L,Commercial,Agent,Monthly,0,3,1,3
+568,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,3
+569,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,2-3 months,0,3,1,2
+570,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+571,26-35,Female,Tier 2,<20k,Domestic,Website,3-6 months,1,2,0,5
+572,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Call,2-3 months,0,3,1,4
+573,18-25,Female,Tier 2,<20k,Domestic,Agent,Monthly,1,3,1,4
+574,26-35,Male,Tier 3,<20k,Domestic,Mobile App,Monthly,0,1,0,5
+575,36-50,Prefer not to say,Tier 3,20k-50k,Commercial,Agent,3-6 months,1,5,1,1
+576,26-35,Male,Tier 1,20k-50k,Domestic,Agent,Monthly,1,3,1,3
+577,18-25,Male,Tier 1,20k-50k,Commercial,Call,3-6 months,1,4,1,1
+578,26-35,Female,Tier 1,<20k,Commercial,Call,3-6 months,1,4,1,2
+579,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,Monthly,0,2,1,5
+580,26-35,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,1,0,4
+581,26-35,Male,Tier 2,<20k,Domestic,Call,Monthly,1,2,1,4
+582,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,2-3 months,0,2,1,5
+583,50+,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+584,26-35,Male,Tier 2,20k-50k,Commercial,Mobile App,Monthly,1,2,0,3
+585,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+586,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,Monthly,0,6,1,1
+587,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,3
+588,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+589,50+,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,2,0,5
+590,18-25,Prefer not to say,Tier 1,1L+,Domestic,Agent,Monthly,1,2,1,4
+591,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,1,0,5
+592,50+,Female,Tier 1,20k-50k,Domestic,Call,Monthly,1,4,1,3
+593,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,3
+594,50+,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,0,3,1,3
+595,50+,Female,Tier 2,50k-1L,Domestic,Website,2-3 months,0,2,0,3
+596,50+,Female,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,3
+597,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+598,36-50,Male,Tier 1,1L+,Domestic,Agent,Monthly,1,5,1,1
+599,50+,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,3
+600,26-35,Prefer not to say,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,1,1,0,4
+601,18-25,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,0,2,1,4
+602,50+,Male,Tier 1,20k-50k,Domestic,Website,Monthly,1,2,0,3
+603,50+,Female,Tier 3,<20k,Commercial,Call,Monthly,1,2,1,3
+604,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,4
+605,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,2
+606,36-50,Male,Tier 1,<20k,Commercial,Mobile App,Monthly,1,1,0,5
+607,36-50,Prefer not to say,Tier 1,<20k,Domestic,Agent,Monthly,1,2,1,4
+608,50+,Male,Tier 3,20k-50k,Domestic,Agent,Monthly,1,5,1,1
+609,50+,Male,Tier 1,20k-50k,Commercial,Agent,2-3 months,1,3,1,4
+610,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+611,18-25,Male,Tier 3,20k-50k,Domestic,Call,Monthly,1,5,1,1
+612,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+613,50+,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,3
+614,26-35,Female,Tier 1,<20k,Domestic,Agent,Monthly,0,4,1,3
+615,26-35,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+616,36-50,Male,Tier 1,20k-50k,Commercial,Call,3-6 months,1,2,1,4
+617,18-25,Female,Tier 2,20k-50k,Commercial,Call,Monthly,1,5,1,1
+618,50+,Female,Tier 1,<20k,Commercial,Website,Monthly,1,4,1,2
+619,36-50,Female,Tier 1,20k-50k,Domestic,Agent,Monthly,1,6,1,1
+620,36-50,Male,Tier 2,<20k,Domestic,Agent,Monthly,0,3,1,3
+621,50+,Prefer not to say,Tier 2,20k-50k,Commercial,Call,2-3 months,1,4,1,3
+622,26-35,Male,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,1,3,0,2
+623,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,3
+624,26-35,Male,Tier 2,50k-1L,Domestic,Call,3-6 months,1,6,1,1
+625,18-25,Male,Tier 2,20k-50k,Domestic,Call,Monthly,1,5,1,1
+626,26-35,Prefer not to say,Tier 2,1L+,Domestic,Call,2-3 months,1,3,1,2
+627,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,2,0,5
+628,26-35,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+629,36-50,Male,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,5
+630,36-50,Male,Tier 2,50k-1L,Domestic,Call,3-6 months,0,2,1,5
+631,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Call,2-3 months,1,5,1,1
+632,50+,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,1,6,1,1
+633,18-25,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+634,18-25,Male,Tier 3,<20k,Domestic,Mobile App,3-6 months,1,1,0,4
+635,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,Monthly,1,5,1,1
+636,26-35,Female,Tier 2,20k-50k,Domestic,Agent,Monthly,0,6,1,1
+637,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,3
+638,36-50,Male,Tier 2,<20k,Domestic,Call,2-3 months,1,6,1,1
+639,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,2
+640,50+,Prefer not to say,Tier 2,50k-1L,Commercial,Agent,2-3 months,1,5,1,1
+641,26-35,Prefer not to say,Tier 2,1L+,Domestic,Agent,Monthly,1,4,1,1
+642,26-35,Female,Tier 2,20k-50k,Domestic,Call,3-6 months,1,2,1,4
+643,50+,Female,Tier 2,50k-1L,Domestic,Call,Monthly,0,6,1,1
+644,18-25,Male,Tier 1,50k-1L,Commercial,Mobile App,3-6 months,1,2,0,3
+645,50+,Female,Tier 3,20k-50k,Domestic,Call,3-6 months,0,2,1,3
+646,18-25,Male,Tier 2,20k-50k,Domestic,Call,Monthly,0,3,1,3
+647,18-25,Male,Tier 3,1L+,Domestic,Call,2-3 months,1,3,1,2
+648,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Call,2-3 months,1,6,1,1
+649,50+,Prefer not to say,Tier 3,20k-50k,Commercial,Mobile App,2-3 months,1,3,0,2
+650,18-25,Prefer not to say,Tier 3,<20k,Domestic,Website,2-3 months,0,4,1,1
+651,36-50,Prefer not to say,Tier 2,<20k,Domestic,Agent,Monthly,0,2,1,4
+652,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+653,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,Monthly,0,2,1,4
+654,18-25,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,2
+655,26-35,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,2,0,3
+656,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,3
+657,36-50,Male,Tier 2,20k-50k,Domestic,Call,3-6 months,1,6,1,1
+658,36-50,Female,Tier 3,<20k,Domestic,Agent,Monthly,1,2,1,4
+659,50+,Female,Tier 3,50k-1L,Domestic,Call,Monthly,0,5,1,2
+660,26-35,Prefer not to say,Tier 3,<20k,Domestic,Call,Monthly,1,6,1,1
+661,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+662,36-50,Male,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,5
+663,18-25,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,3
+664,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,2-3 months,1,5,1,1
+665,18-25,Male,Tier 1,50k-1L,Domestic,Website,Monthly,0,3,0,3
+666,18-25,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,3
+667,26-35,Male,Tier 1,<20k,Domestic,Call,2-3 months,0,2,1,3
+668,50+,Prefer not to say,Tier 2,<20k,Domestic,Website,2-3 months,0,5,1,1
+669,18-25,Female,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,0,2,0,5
+670,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,5,1,2
+671,18-25,Female,Tier 3,50k-1L,Commercial,Call,Monthly,1,4,1,1
+672,26-35,Male,Tier 2,50k-1L,Domestic,Call,Monthly,0,2,1,4
+673,26-35,Prefer not to say,Tier 1,50k-1L,Commercial,Mobile App,2-3 months,1,2,0,3
+674,26-35,Prefer not to say,Tier 2,1L+,Domestic,Call,2-3 months,1,6,1,1
+675,50+,Female,Tier 1,50k-1L,Domestic,Agent,Monthly,1,6,1,1
+676,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+677,50+,Female,Tier 2,20k-50k,Commercial,Call,3-6 months,1,4,1,1
+678,50+,Female,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,2
+679,26-35,Female,Tier 1,<20k,Domestic,Agent,3-6 months,1,3,1,4
+680,26-35,Female,Tier 2,<20k,Domestic,Call,3-6 months,1,2,1,3
+681,50+,Male,Tier 3,20k-50k,Domestic,Agent,3-6 months,1,5,1,1
+682,18-25,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,3,0,3
+683,36-50,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+684,50+,Male,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,4
+685,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,4
+686,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,1,0,5
+687,26-35,Female,Tier 2,<20k,Domestic,Call,2-3 months,1,3,1,2
+688,18-25,Male,Tier 3,<20k,Domestic,Mobile App,Monthly,1,1,0,5
+689,36-50,Male,Tier 2,50k-1L,Commercial,Call,3-6 months,1,2,1,3
+690,26-35,Prefer not to say,Tier 3,50k-1L,Commercial,Mobile App,2-3 months,1,2,0,3
+691,26-35,Prefer not to say,Tier 3,50k-1L,Commercial,Call,Monthly,1,6,1,1
+692,26-35,Female,Tier 1,20k-50k,Domestic,Agent,3-6 months,1,3,1,2
+693,18-25,Male,Tier 2,<20k,Commercial,Call,3-6 months,1,2,1,3
+694,50+,Male,Tier 3,<20k,Domestic,Website,2-3 months,0,6,1,1
+695,26-35,Male,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,3
+696,50+,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+697,36-50,Female,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,3
+698,26-35,Female,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,1,2,0,5
+699,26-35,Female,Tier 1,<20k,Domestic,Call,3-6 months,1,5,1,2
+700,36-50,Female,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,2,0,3
+701,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Call,Monthly,1,3,1,3
+702,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,2,0,4
+703,18-25,Male,Tier 1,<20k,Domestic,Website,2-3 months,0,4,1,1
+704,50+,Male,Tier 2,50k-1L,Domestic,Website,2-3 months,1,3,0,4
+705,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,3
+706,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,2,0,3
+707,50+,Male,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,6,1,1
+708,50+,Male,Tier 2,20k-50k,Domestic,Website,Monthly,1,2,0,5
+709,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,4
+710,50+,Prefer not to say,Tier 1,50k-1L,Commercial,Mobile App,2-3 months,1,1,0,4
+711,36-50,Male,Tier 2,50k-1L,Domestic,Website,Monthly,1,4,1,2
+712,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,Monthly,0,5,1,1
+713,18-25,Female,Tier 3,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+714,50+,Male,Tier 1,<20k,Domestic,Call,Monthly,0,2,1,3
+715,50+,Female,Tier 2,50k-1L,Domestic,Website,Monthly,1,3,0,4
+716,50+,Female,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,4,1,3
+717,36-50,Female,Tier 2,20k-50k,Domestic,Agent,Monthly,1,3,1,4
+718,50+,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,3-6 months,0,3,1,3
+719,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,3,0,4
+720,50+,Female,Tier 2,50k-1L,Domestic,Agent,3-6 months,1,3,1,4
+721,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+722,36-50,Male,Tier 2,50k-1L,Domestic,Website,3-6 months,1,3,0,3
+723,50+,Male,Tier 2,<20k,Commercial,Mobile App,3-6 months,1,3,0,3
+724,18-25,Prefer not to say,Tier 2,<20k,Domestic,Agent,Monthly,1,3,1,3
+725,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,3,0,4
+726,18-25,Male,Tier 2,<20k,Domestic,Call,2-3 months,0,6,1,1
+727,36-50,Prefer not to say,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,1,1,0,5
+728,36-50,Male,Tier 1,50k-1L,Domestic,Call,2-3 months,1,4,1,3
+729,18-25,Female,Tier 1,20k-50k,Domestic,Agent,Monthly,0,5,1,1
+730,50+,Female,Tier 1,<20k,Domestic,Agent,3-6 months,0,6,1,1
+731,36-50,Prefer not to say,Tier 1,20k-50k,Commercial,Call,3-6 months,1,2,1,3
+732,18-25,Male,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,0,3,0,3
+733,18-25,Male,Tier 2,20k-50k,Domestic,Website,2-3 months,1,2,0,4
+734,50+,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,Monthly,1,6,1,1
+735,26-35,Male,Tier 3,50k-1L,Domestic,Agent,3-6 months,0,3,1,3
+736,36-50,Female,Tier 1,20k-50k,Domestic,Agent,2-3 months,0,2,1,5
+737,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,Monthly,1,5,1,2
+738,18-25,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,4
+739,18-25,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,1,4,1,3
+740,50+,Prefer not to say,Tier 1,50k-1L,Domestic,Call,3-6 months,1,6,1,1
+741,36-50,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,1,3,1,2
+742,26-35,Male,Tier 2,1L+,Domestic,Agent,2-3 months,1,3,1,3
+743,26-35,Male,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+744,18-25,Male,Tier 2,50k-1L,Commercial,Mobile App,3-6 months,0,1,0,5
+745,36-50,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,4
+746,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+747,36-50,Female,Tier 2,20k-50k,Domestic,Call,2-3 months,1,5,1,2
+748,36-50,Female,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,3,1,4
+749,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+750,26-35,Prefer not to say,Tier 1,1L+,Domestic,Mobile App,2-3 months,1,3,0,4
+751,50+,Female,Tier 2,20k-50k,Domestic,Website,3-6 months,0,6,1,1
+752,18-25,Female,Tier 2,<20k,Domestic,Agent,2-3 months,0,4,1,1
+753,26-35,Female,Tier 2,20k-50k,Domestic,Call,Monthly,1,6,1,1
+754,26-35,Female,Tier 2,20k-50k,Commercial,Agent,Monthly,0,5,1,1
+755,26-35,Female,Tier 3,50k-1L,Domestic,Call,2-3 months,1,6,1,1
+756,26-35,Male,Tier 1,20k-50k,Commercial,Mobile App,Monthly,1,3,0,2
+757,26-35,Prefer not to say,Tier 3,50k-1L,Commercial,Mobile App,3-6 months,1,3,0,4
+758,36-50,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,2,0,3
+759,18-25,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+760,36-50,Female,Tier 2,50k-1L,Domestic,Website,3-6 months,0,5,1,1
+761,50+,Female,Tier 2,<20k,Domestic,Agent,Monthly,0,6,1,1
+762,26-35,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+763,18-25,Male,Tier 1,1L+,Commercial,Mobile App,2-3 months,0,1,0,5
+764,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,4
+765,18-25,Male,Tier 2,20k-50k,Domestic,Agent,3-6 months,0,6,1,1
+766,36-50,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,4,1,1
+767,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,3
+768,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,1,0,5
+769,50+,Prefer not to say,Tier 3,50k-1L,Domestic,Call,Monthly,1,5,1,1
+770,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Call,Monthly,1,5,1,2
+771,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,4
+772,18-25,Prefer not to say,Tier 1,<20k,Domestic,Call,3-6 months,1,5,1,1
+773,18-25,Female,Tier 2,20k-50k,Domestic,Call,Monthly,1,4,1,3
+774,50+,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,2,0,3
+775,26-35,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,2,0,5
+776,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+777,18-25,Prefer not to say,Tier 2,<20k,Domestic,Agent,Monthly,0,5,1,1
+778,50+,Male,Tier 2,<20k,Domestic,Website,2-3 months,1,2,0,4
+779,50+,Male,Tier 1,20k-50k,Domestic,Agent,2-3 months,1,5,1,1
+780,36-50,Prefer not to say,Tier 2,<20k,Domestic,Agent,2-3 months,1,3,1,3
+781,18-25,Prefer not to say,Tier 2,<20k,Domestic,Call,2-3 months,1,6,1,1
+782,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,3-6 months,1,2,1,4
+783,50+,Prefer not to say,Tier 2,<20k,Domestic,Website,Monthly,1,4,1,3
+784,50+,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+785,26-35,Prefer not to say,Tier 2,<20k,Commercial,Call,2-3 months,1,3,1,4
+786,18-25,Male,Tier 2,50k-1L,Domestic,Call,2-3 months,1,4,1,3
+787,36-50,Prefer not to say,Tier 1,1L+,Domestic,Call,Monthly,1,6,1,1
+788,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,5
+789,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Call,3-6 months,1,2,1,5
+790,36-50,Male,Tier 2,50k-1L,Commercial,Agent,3-6 months,1,4,1,1
+791,26-35,Male,Tier 1,50k-1L,Domestic,Mobile App,Monthly,0,3,0,3
+792,50+,Female,Tier 3,<20k,Commercial,Agent,3-6 months,0,6,1,1
+793,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,5
+794,50+,Female,Tier 2,50k-1L,Domestic,Website,2-3 months,1,4,1,3
+795,18-25,Female,Tier 2,20k-50k,Domestic,Call,Monthly,1,3,1,3
+796,36-50,Male,Tier 1,<20k,Domestic,Call,3-6 months,1,4,1,3
+797,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,4
+798,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,3,0,3
+799,18-25,Prefer not to say,Tier 3,<20k,Domestic,Call,3-6 months,1,5,1,1
+800,36-50,Male,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+801,18-25,Prefer not to say,Tier 3,<20k,Commercial,Call,3-6 months,1,6,1,1
+802,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,4
+803,18-25,Female,Tier 2,20k-50k,Domestic,Agent,3-6 months,0,6,1,1
+804,18-25,Female,Tier 2,20k-50k,Domestic,Agent,Monthly,1,2,1,4
+805,26-35,Female,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,0,2,0,3
+806,50+,Female,Tier 2,20k-50k,Domestic,Call,Monthly,1,3,1,3
+807,50+,Male,Tier 3,50k-1L,Domestic,Agent,2-3 months,1,2,1,5
+808,18-25,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,1,5,1,1
+809,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+810,18-25,Male,Tier 1,20k-50k,Domestic,Call,Monthly,1,3,1,4
+811,36-50,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+812,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+813,18-25,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,1,0,5
+814,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Call,3-6 months,1,3,1,4
+815,50+,Female,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,3,0,4
+816,18-25,Prefer not to say,Tier 1,1L+,Commercial,Website,Monthly,0,5,1,1
+817,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+818,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,2,0,5
+819,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+820,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,4
+821,36-50,Male,Tier 1,<20k,Domestic,Call,3-6 months,1,2,1,4
+822,50+,Female,Tier 1,1L+,Domestic,Mobile App,3-6 months,1,3,0,3
+823,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+824,36-50,Female,Tier 1,1L+,Commercial,Mobile App,3-6 months,1,2,0,3
+825,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,4
+826,50+,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,Monthly,0,3,0,4
+827,36-50,Female,Tier 1,20k-50k,Domestic,Agent,2-3 months,1,6,1,1
+828,26-35,Male,Tier 2,<20k,Domestic,Call,3-6 months,0,4,1,1
+829,36-50,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,0,4,1,3
+830,50+,Female,Tier 3,20k-50k,Commercial,Call,Monthly,1,4,1,2
+831,18-25,Prefer not to say,Tier 2,<20k,Domestic,Call,Monthly,1,6,1,1
+832,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Website,3-6 months,0,4,1,2
+833,36-50,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,0,3,0,3
+834,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+835,18-25,Female,Tier 3,20k-50k,Commercial,Mobile App,Monthly,1,3,0,3
+836,50+,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,3,0,3
+837,36-50,Male,Tier 3,1L+,Domestic,Mobile App,3-6 months,0,2,0,5
+838,18-25,Female,Tier 2,<20k,Domestic,Call,3-6 months,1,4,1,2
+839,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+840,18-25,Female,Tier 1,20k-50k,Domestic,Website,2-3 months,1,5,1,1
+841,36-50,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,4
+842,50+,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,3,0,4
+843,18-25,Female,Tier 3,20k-50k,Domestic,Website,2-3 months,1,4,1,1
+844,36-50,Female,Tier 3,20k-50k,Commercial,Agent,2-3 months,0,3,1,3
+845,18-25,Male,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+846,18-25,Male,Tier 3,20k-50k,Domestic,Call,2-3 months,1,2,1,3
+847,26-35,Female,Tier 2,1L+,Domestic,Agent,2-3 months,1,6,1,1
+848,26-35,Male,Tier 2,1L+,Domestic,Mobile App,3-6 months,1,2,0,5
+849,36-50,Female,Tier 2,<20k,Commercial,Mobile App,2-3 months,0,3,0,2
+850,26-35,Prefer not to say,Tier 1,<20k,Domestic,Agent,2-3 months,1,3,1,2
+851,36-50,Male,Tier 1,20k-50k,Domestic,Call,3-6 months,1,2,1,5
+852,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,4
+853,18-25,Prefer not to say,Tier 3,<20k,Domestic,Call,2-3 months,1,3,1,2
+854,36-50,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+855,36-50,Female,Tier 3,1L+,Domestic,Agent,2-3 months,1,2,1,5
+856,18-25,Male,Tier 2,1L+,Commercial,Mobile App,3-6 months,0,2,0,3
+857,36-50,Female,Tier 2,<20k,Domestic,Agent,Monthly,1,4,1,2
+858,36-50,Prefer not to say,Tier 2,20k-50k,Commercial,Call,Monthly,1,4,1,2
+859,26-35,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,3
+860,36-50,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,2,0,4
+861,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,5,1,1
+862,18-25,Female,Tier 2,20k-50k,Domestic,Website,2-3 months,1,2,0,5
+863,26-35,Male,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,4
+864,26-35,Prefer not to say,Tier 1,50k-1L,Commercial,Mobile App,2-3 months,0,1,0,5
+865,50+,Male,Tier 2,20k-50k,Commercial,Call,3-6 months,1,5,1,1
+866,18-25,Prefer not to say,Tier 2,50k-1L,Commercial,Agent,3-6 months,1,5,1,1
+867,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+868,26-35,Male,Tier 2,20k-50k,Commercial,Call,3-6 months,1,2,1,3
+869,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,3-6 months,0,3,1,4
+870,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,3
+871,18-25,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,3,0,4
+872,50+,Female,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,3
+873,26-35,Male,Tier 2,1L+,Domestic,Agent,2-3 months,0,4,1,2
+874,18-25,Prefer not to say,Tier 2,<20k,Domestic,Call,Monthly,1,3,1,2
+875,26-35,Prefer not to say,Tier 1,20k-50k,Commercial,Call,2-3 months,1,4,1,1
+876,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+877,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,4
+878,26-35,Female,Tier 2,<20k,Commercial,Agent,2-3 months,1,4,1,1
+879,18-25,Male,Tier 2,1L+,Domestic,Mobile App,Monthly,0,2,0,3
+880,18-25,Female,Tier 3,50k-1L,Commercial,Call,2-3 months,1,5,1,1
+881,18-25,Male,Tier 1,20k-50k,Domestic,Call,Monthly,1,2,1,5
+882,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,3
+883,36-50,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+884,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+885,50+,Male,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,4
+886,18-25,Female,Tier 2,<20k,Domestic,Agent,Monthly,1,3,1,4
+887,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,2,0,5
+888,26-35,Prefer not to say,Tier 1,20k-50k,Commercial,Mobile App,3-6 months,1,2,0,5
+889,50+,Male,Tier 1,20k-50k,Domestic,Agent,3-6 months,0,2,1,4
+890,18-25,Female,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,1,0,5
+891,36-50,Prefer not to say,Tier 2,<20k,Domestic,Call,3-6 months,1,6,1,1
+892,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,3
+893,18-25,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,3
+894,18-25,Male,Tier 2,50k-1L,Commercial,Mobile App,3-6 months,1,3,0,4
+895,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,2,0,5
+896,50+,Male,Tier 3,20k-50k,Domestic,Agent,3-6 months,1,3,1,2
+897,26-35,Male,Tier 2,50k-1L,Domestic,Call,3-6 months,0,5,1,1
+898,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,4
+899,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,3,0,3
+900,36-50,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,3,0,3
+901,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,3
+902,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+903,26-35,Female,Tier 2,1L+,Domestic,Call,Monthly,1,4,1,3
+904,36-50,Female,Tier 1,20k-50k,Domestic,Agent,3-6 months,1,3,1,3
+905,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,Monthly,0,1,0,5
+906,26-35,Male,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,2,1,4
+907,26-35,Female,Tier 2,50k-1L,Commercial,Agent,2-3 months,1,5,1,2
+908,36-50,Male,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,5
+909,36-50,Male,Tier 2,1L+,Domestic,Agent,2-3 months,1,2,1,5
+910,26-35,Prefer not to say,Tier 3,20k-50k,Domestic,Agent,2-3 months,0,4,1,2
+911,36-50,Male,Tier 2,<20k,Commercial,Mobile App,2-3 months,1,3,0,2
+912,18-25,Male,Tier 1,<20k,Commercial,Website,Monthly,1,2,0,5
+913,18-25,Prefer not to say,Tier 2,50k-1L,Commercial,Mobile App,3-6 months,0,1,0,4
+914,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,4
+915,50+,Male,Tier 2,<20k,Domestic,Agent,2-3 months,1,2,1,3
+916,26-35,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,3-6 months,0,3,0,4
+917,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+918,50+,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,4
+919,50+,Female,Tier 3,20k-50k,Domestic,Agent,2-3 months,1,4,1,3
+920,50+,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,2,1,3
+921,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Call,2-3 months,1,3,1,4
+922,36-50,Male,Tier 3,50k-1L,Domestic,Website,2-3 months,1,2,0,4
+923,18-25,Female,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,4
+924,36-50,Female,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,0,1,0,5
+925,18-25,Prefer not to say,Tier 3,<20k,Domestic,Call,2-3 months,1,5,1,1
+926,36-50,Female,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,6,1,1
+927,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,4
+928,50+,Female,Tier 2,1L+,Domestic,Mobile App,Monthly,1,2,0,3
+929,26-35,Prefer not to say,Tier 2,<20k,Domestic,Agent,2-3 months,1,3,1,3
+930,18-25,Female,Tier 3,<20k,Domestic,Website,3-6 months,0,3,0,2
+931,36-50,Female,Tier 1,<20k,Domestic,Call,3-6 months,0,2,1,4
+932,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,1,0,4
+933,18-25,Prefer not to say,Tier 1,50k-1L,Commercial,Website,2-3 months,1,2,0,4
+934,18-25,Female,Tier 2,<20k,Domestic,Agent,2-3 months,1,4,1,2
+935,50+,Female,Tier 2,20k-50k,Domestic,Call,2-3 months,1,3,1,4
+936,18-25,Male,Tier 3,20k-50k,Domestic,Agent,3-6 months,1,5,1,1
+937,26-35,Prefer not to say,Tier 2,<20k,Commercial,Agent,2-3 months,1,6,1,1
+938,18-25,Female,Tier 2,20k-50k,Domestic,Website,2-3 months,1,3,0,3
+939,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,2-3 months,1,3,1,3
+940,26-35,Female,Tier 2,20k-50k,Commercial,Call,2-3 months,1,3,1,4
+941,50+,Female,Tier 2,50k-1L,Commercial,Call,Monthly,1,2,1,5
+942,18-25,Female,Tier 1,20k-50k,Commercial,Mobile App,Monthly,1,3,0,2
+943,50+,Male,Tier 1,<20k,Domestic,Call,Monthly,1,5,1,2
+944,18-25,Male,Tier 1,1L+,Domestic,Agent,2-3 months,1,2,1,3
+945,18-25,Male,Tier 1,20k-50k,Commercial,Website,2-3 months,0,4,1,2
+946,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,4
+947,18-25,Prefer not to say,Tier 1,<20k,Domestic,Call,3-6 months,1,4,1,3
+948,50+,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+949,26-35,Prefer not to say,Tier 3,<20k,Domestic,Call,2-3 months,0,3,1,3
+950,18-25,Female,Tier 2,<20k,Commercial,Call,Monthly,0,2,1,4
+951,36-50,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+952,50+,Female,Tier 2,1L+,Domestic,Call,Monthly,1,3,1,4
+953,18-25,Male,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,0,2,0,4
+954,50+,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,Monthly,0,1,0,5
+955,36-50,Male,Tier 1,20k-50k,Domestic,Agent,3-6 months,0,6,1,1
+956,36-50,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,3-6 months,0,3,0,2
+957,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,5
+958,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,1,0,4
+959,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,4
+960,36-50,Prefer not to say,Tier 2,1L+,Domestic,Agent,Monthly,1,2,1,5
+961,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,4
+962,18-25,Male,Tier 2,20k-50k,Domestic,Agent,3-6 months,0,5,1,2
+963,26-35,Male,Tier 2,1L+,Domestic,Mobile App,3-6 months,0,1,0,4
+964,36-50,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+965,36-50,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,3,0,3
+966,18-25,Male,Tier 2,1L+,Domestic,Agent,3-6 months,1,2,1,5
+967,18-25,Female,Tier 3,<20k,Domestic,Call,3-6 months,0,4,1,2
+968,26-35,Female,Tier 2,1L+,Domestic,Website,2-3 months,0,3,0,4
+969,26-35,Female,Tier 3,<20k,Domestic,Call,3-6 months,1,5,1,1
+970,36-50,Prefer not to say,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,1,3,0,4
+971,50+,Male,Tier 2,50k-1L,Domestic,Agent,Monthly,0,2,1,5
+972,36-50,Male,Tier 2,20k-50k,Domestic,Website,Monthly,0,4,1,3
+973,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+974,36-50,Female,Tier 1,20k-50k,Commercial,Mobile App,3-6 months,1,2,0,3
+975,50+,Male,Tier 1,1L+,Domestic,Call,3-6 months,1,3,1,3
+976,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,4
+977,50+,Male,Tier 2,50k-1L,Domestic,Website,3-6 months,1,5,1,2
+978,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,5
+979,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,2
+980,26-35,Male,Tier 2,20k-50k,Domestic,Website,2-3 months,1,2,0,4
+981,50+,Female,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,3,1,3
+982,50+,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,5
+983,50+,Male,Tier 1,20k-50k,Domestic,Website,3-6 months,1,4,1,3
+984,18-25,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,2,0,4
+985,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+986,26-35,Male,Tier 2,<20k,Domestic,Website,2-3 months,0,2,0,5
+987,50+,Male,Tier 2,50k-1L,Domestic,Call,Monthly,1,3,1,4
+988,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,2
+989,26-35,Prefer not to say,Tier 2,50k-1L,Commercial,Mobile App,2-3 months,1,3,0,2
+990,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,Monthly,0,5,1,1
+991,26-35,Female,Tier 1,20k-50k,Commercial,Mobile App,2-3 months,1,2,0,3
+992,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Call,2-3 months,1,5,1,1
+993,26-35,Female,Tier 2,50k-1L,Commercial,Call,Monthly,1,5,1,1
+994,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,3
+995,50+,Prefer not to say,Tier 3,1L+,Domestic,Call,3-6 months,1,6,1,1
+996,18-25,Female,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,5,1,2
+997,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,2,0,4
+998,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,3
+999,50+,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,2-3 months,0,2,0,4
+1000,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Call,Monthly,0,5,1,2
+1001,26-35,Female,Tier 2,<20k,Domestic,Agent,2-3 months,0,2,1,5
+1002,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+1003,18-25,Female,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,5
+1004,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+1005,18-25,Male,Tier 3,<20k,Domestic,Call,2-3 months,1,4,1,2
+1006,18-25,Female,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,3
+1007,50+,Female,Tier 2,1L+,Domestic,Agent,3-6 months,1,6,1,1
+1008,18-25,Female,Tier 2,<20k,Commercial,Mobile App,Monthly,1,2,0,4
+1009,50+,Male,Tier 2,50k-1L,Domestic,Agent,3-6 months,0,4,1,2
+1010,50+,Prefer not to say,Tier 2,<20k,Domestic,Call,Monthly,1,4,1,1
+1011,18-25,Female,Tier 1,<20k,Domestic,Call,Monthly,0,5,1,2
+1012,18-25,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,2,0,3
+1013,26-35,Female,Tier 2,<20k,Domestic,Agent,Monthly,1,6,1,1
+1014,36-50,Female,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,3
+1015,18-25,Female,Tier 2,<20k,Domestic,Mobile App,Monthly,0,2,0,3
+1016,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Call,Monthly,0,2,1,4
+1017,26-35,Prefer not to say,Tier 2,<20k,Domestic,Agent,2-3 months,0,4,1,1
+1018,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1019,50+,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,1,0,5
+1020,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,3-6 months,1,3,1,2
+1021,36-50,Male,Tier 2,<20k,Commercial,Agent,Monthly,0,2,1,3
+1022,18-25,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,5
+1023,26-35,Female,Tier 2,50k-1L,Domestic,Call,3-6 months,0,5,1,1
+1024,26-35,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,Monthly,0,1,0,5
+1025,50+,Female,Tier 2,50k-1L,Domestic,Call,2-3 months,1,6,1,1
+1026,26-35,Prefer not to say,Tier 3,<20k,Domestic,Agent,2-3 months,1,2,1,4
+1027,26-35,Female,Tier 1,<20k,Domestic,Mobile App,Monthly,1,3,0,4
+1028,36-50,Female,Tier 2,<20k,Domestic,Agent,2-3 months,0,3,1,4
+1029,18-25,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,4
+1030,18-25,Female,Tier 2,20k-50k,Domestic,Call,2-3 months,1,5,1,1
+1031,36-50,Male,Tier 3,50k-1L,Domestic,Call,3-6 months,1,3,1,4
+1032,50+,Female,Tier 2,20k-50k,Domestic,Website,2-3 months,1,4,1,2
+1033,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,2
+1034,26-35,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,1,0,5
+1035,18-25,Female,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,3
+1036,26-35,Male,Tier 1,<20k,Domestic,Website,Monthly,1,6,1,1
+1037,50+,Prefer not to say,Tier 2,<20k,Domestic,Agent,Monthly,0,5,1,1
+1038,36-50,Female,Tier 1,<20k,Domestic,Call,2-3 months,1,4,1,3
+1039,18-25,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,3,0,3
+1040,36-50,Female,Tier 3,20k-50k,Domestic,Agent,Monthly,1,3,1,2
+1041,18-25,Female,Tier 3,50k-1L,Commercial,Agent,Monthly,1,4,1,2
+1042,26-35,Female,Tier 2,<20k,Domestic,Call,Monthly,0,3,1,4
+1043,36-50,Male,Tier 3,50k-1L,Domestic,Mobile App,Monthly,0,1,0,4
+1044,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,2,0,4
+1045,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Call,3-6 months,1,5,1,2
+1046,36-50,Male,Tier 1,<20k,Domestic,Agent,Monthly,1,5,1,2
+1047,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+1048,18-25,Male,Tier 2,1L+,Domestic,Call,Monthly,0,5,1,2
+1049,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,2
+1050,18-25,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,0,6,1,1
+1051,26-35,Female,Tier 1,<20k,Domestic,Call,Monthly,1,3,1,2
+1052,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1053,36-50,Female,Tier 3,20k-50k,Domestic,Call,3-6 months,1,5,1,2
+1054,36-50,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,5
+1055,18-25,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,2-3 months,1,1,0,4
+1056,18-25,Male,Tier 3,20k-50k,Domestic,Agent,2-3 months,1,5,1,2
+1057,50+,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+1058,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,3
+1059,26-35,Female,Tier 3,50k-1L,Domestic,Mobile App,Monthly,0,2,0,5
+1060,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,2,0,4
+1061,18-25,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,2,0,3
+1062,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,4
+1063,36-50,Female,Tier 2,<20k,Domestic,Call,3-6 months,1,5,1,2
+1064,18-25,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,3,0,3
+1065,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,4,1,2
+1066,36-50,Female,Tier 3,<20k,Domestic,Mobile App,Monthly,1,3,0,4
+1067,18-25,Female,Tier 3,<20k,Domestic,Mobile App,2-3 months,0,1,0,4
+1068,36-50,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1069,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,Monthly,0,4,1,2
+1070,18-25,Prefer not to say,Tier 1,<20k,Commercial,Call,3-6 months,0,5,1,1
+1071,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,2-3 months,1,6,1,1
+1072,26-35,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,2
+1073,26-35,Prefer not to say,Tier 1,1L+,Domestic,Agent,Monthly,1,6,1,1
+1074,36-50,Female,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+1075,18-25,Female,Tier 3,<20k,Domestic,Mobile App,Monthly,1,3,0,3
+1076,18-25,Male,Tier 2,50k-1L,Domestic,Call,3-6 months,1,4,1,1
+1077,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1078,18-25,Female,Tier 1,50k-1L,Domestic,Website,2-3 months,1,6,1,1
+1079,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1080,18-25,Female,Tier 1,20k-50k,Domestic,Website,Monthly,1,4,1,1
+1081,36-50,Male,Tier 3,50k-1L,Domestic,Call,Monthly,1,6,1,1
+1082,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Call,3-6 months,0,6,1,1
+1083,18-25,Prefer not to say,Tier 2,<20k,Commercial,Mobile App,2-3 months,1,1,0,4
+1084,50+,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,4
+1085,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Website,2-3 months,0,3,0,2
+1086,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,3
+1087,18-25,Male,Tier 2,<20k,Domestic,Call,3-6 months,0,5,1,1
+1088,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Website,2-3 months,1,2,0,4
+1089,50+,Male,Tier 1,1L+,Domestic,Mobile App,3-6 months,0,1,0,4
+1090,26-35,Male,Tier 2,20k-50k,Domestic,Call,Monthly,1,5,1,1
+1091,50+,Female,Tier 2,20k-50k,Commercial,Call,3-6 months,1,3,1,4
+1092,36-50,Female,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,4
+1093,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,3
+1094,36-50,Prefer not to say,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,1,1,0,5
+1095,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,1,0,5
+1096,26-35,Prefer not to say,Tier 2,1L+,Domestic,Agent,3-6 months,0,5,1,1
+1097,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,5
+1098,26-35,Male,Tier 2,<20k,Commercial,Website,3-6 months,1,6,1,1
+1099,26-35,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,2,0,3
+1100,36-50,Male,Tier 3,20k-50k,Domestic,Call,Monthly,0,2,1,5
+1101,36-50,Female,Tier 2,<20k,Domestic,Call,Monthly,0,3,1,2
+1102,26-35,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1103,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,1,0,5
+1104,18-25,Prefer not to say,Tier 3,<20k,Domestic,Agent,Monthly,0,2,1,4
+1105,26-35,Male,Tier 3,50k-1L,Commercial,Agent,3-6 months,1,3,1,2
+1106,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1107,18-25,Female,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,2
+1108,26-35,Male,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,3
+1109,26-35,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,Monthly,1,3,0,3
+1110,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,Monthly,1,5,1,1
+1111,18-25,Prefer not to say,Tier 1,<20k,Commercial,Agent,3-6 months,1,2,1,3
+1112,18-25,Female,Tier 2,50k-1L,Commercial,Mobile App,Monthly,0,1,0,4
+1113,50+,Female,Tier 3,50k-1L,Domestic,Website,Monthly,1,4,1,2
+1114,36-50,Prefer not to say,Tier 1,20k-50k,Commercial,Mobile App,2-3 months,1,1,0,4
+1115,36-50,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,0,6,1,1
+1116,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1117,36-50,Female,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+1118,18-25,Male,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,1,1,0,5
+1119,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,3
+1120,26-35,Prefer not to say,Tier 1,20k-50k,Commercial,Agent,2-3 months,0,4,1,2
+1121,26-35,Female,Tier 2,<20k,Domestic,Agent,Monthly,1,5,1,1
+1122,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,2
+1123,36-50,Prefer not to say,Tier 3,<20k,Domestic,Agent,3-6 months,1,6,1,1
+1124,36-50,Male,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1125,26-35,Female,Tier 2,<20k,Domestic,Agent,2-3 months,0,6,1,1
+1126,50+,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,1,0,4
+1127,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,4
+1128,26-35,Male,Tier 2,1L+,Domestic,Mobile App,Monthly,0,3,0,2
+1129,26-35,Female,Tier 2,50k-1L,Domestic,Call,3-6 months,1,2,1,5
+1130,26-35,Prefer not to say,Tier 2,<20k,Commercial,Call,2-3 months,1,4,1,2
+1131,26-35,Female,Tier 3,<20k,Domestic,Mobile App,3-6 months,1,2,0,5
+1132,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,4
+1133,26-35,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+1134,36-50,Male,Tier 3,<20k,Domestic,Call,3-6 months,1,5,1,1
+1135,36-50,Male,Tier 2,50k-1L,Domestic,Call,3-6 months,1,3,1,3
+1136,36-50,Male,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,4
+1137,36-50,Female,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,3,0,2
+1138,26-35,Female,Tier 1,1L+,Domestic,Agent,2-3 months,1,2,1,4
+1139,50+,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,1,0,4
+1140,18-25,Male,Tier 1,<20k,Commercial,Mobile App,3-6 months,1,2,0,4
+1141,26-35,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,2,0,4
+1142,18-25,Female,Tier 2,20k-50k,Commercial,Mobile App,Monthly,0,3,0,4
+1143,50+,Male,Tier 1,20k-50k,Commercial,Call,3-6 months,0,2,1,4
+1144,36-50,Male,Tier 1,20k-50k,Commercial,Call,Monthly,1,6,1,1
+1145,50+,Male,Tier 3,20k-50k,Commercial,Mobile App,Monthly,1,2,0,3
+1146,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,Monthly,1,2,1,4
+1147,36-50,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,1,0,5
+1148,26-35,Prefer not to say,Tier 2,<20k,Domestic,Agent,Monthly,1,3,1,4
+1149,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,Monthly,1,4,1,1
+1150,18-25,Male,Tier 2,20k-50k,Domestic,Call,Monthly,0,5,1,1
+1151,18-25,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,4
+1152,18-25,Male,Tier 2,<20k,Commercial,Mobile App,3-6 months,0,3,0,3
+1153,50+,Female,Tier 2,20k-50k,Commercial,Mobile App,Monthly,1,2,0,5
+1154,26-35,Female,Tier 3,50k-1L,Domestic,Call,3-6 months,1,4,1,1
+1155,50+,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+1156,18-25,Female,Tier 1,<20k,Commercial,Website,3-6 months,0,3,0,2
+1157,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Website,2-3 months,1,3,0,4
+1158,18-25,Male,Tier 1,20k-50k,Domestic,Call,Monthly,1,5,1,1
+1159,50+,Male,Tier 2,1L+,Domestic,Website,2-3 months,1,6,1,1
+1160,50+,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,2,0,3
+1161,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,2,0,5
+1162,18-25,Female,Tier 3,<20k,Commercial,Mobile App,2-3 months,1,1,0,4
+1163,26-35,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,1,6,1,1
+1164,26-35,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+1165,18-25,Male,Tier 2,20k-50k,Domestic,Website,Monthly,1,2,0,4
+1166,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,3
+1167,18-25,Male,Tier 2,<20k,Commercial,Mobile App,2-3 months,0,3,0,4
+1168,26-35,Male,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,4,1,2
+1169,36-50,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,3
+1170,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,3
+1171,50+,Male,Tier 2,50k-1L,Domestic,Call,2-3 months,1,3,1,4
+1172,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1173,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+1174,36-50,Male,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,2,0,4
+1175,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+1176,36-50,Female,Tier 1,50k-1L,Domestic,Website,2-3 months,1,2,0,4
+1177,36-50,Female,Tier 3,20k-50k,Commercial,Agent,2-3 months,0,3,1,4
+1178,50+,Male,Tier 1,50k-1L,Commercial,Mobile App,3-6 months,0,3,0,2
+1179,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+1180,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,4
+1181,26-35,Female,Tier 3,<20k,Domestic,Website,3-6 months,1,3,0,4
+1182,50+,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,4
+1183,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,4
+1184,50+,Male,Tier 1,20k-50k,Domestic,Agent,3-6 months,0,5,1,1
+1185,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Website,Monthly,1,6,1,1
+1186,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,3
+1187,50+,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,2,0,5
+1188,18-25,Male,Tier 1,<20k,Domestic,Mobile App,Monthly,1,2,0,5
+1189,36-50,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1190,50+,Male,Tier 3,20k-50k,Domestic,Call,Monthly,1,4,1,1
+1191,36-50,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,0,4,1,2
+1192,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Call,Monthly,1,3,1,4
+1193,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,3
+1194,50+,Male,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,4
+1195,26-35,Male,Tier 1,1L+,Commercial,Mobile App,3-6 months,1,1,0,4
+1196,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+1197,26-35,Prefer not to say,Tier 2,<20k,Domestic,Agent,Monthly,1,3,1,3
+1198,36-50,Male,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+1199,36-50,Male,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,1,3,0,3
+1200,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,0,1,0,5
+1201,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+1202,26-35,Male,Tier 3,<20k,Commercial,Mobile App,3-6 months,1,2,0,4
+1203,50+,Male,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,6,1,1
+1204,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,4
+1205,18-25,Female,Tier 1,<20k,Domestic,Agent,3-6 months,0,6,1,1
+1206,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,3
+1207,18-25,Female,Tier 2,50k-1L,Commercial,Mobile App,Monthly,0,3,0,2
+1208,26-35,Prefer not to say,Tier 2,1L+,Domestic,Website,2-3 months,1,6,1,1
+1209,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,2,0,3
+1210,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Call,Monthly,0,6,1,1
+1211,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,4
+1212,50+,Prefer not to say,Tier 3,1L+,Domestic,Call,3-6 months,1,2,1,5
+1213,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,6,1,1
+1214,26-35,Prefer not to say,Tier 3,<20k,Domestic,Agent,3-6 months,1,3,1,3
+1215,26-35,Female,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,5,1,1
+1216,18-25,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,1,3,1,4
+1217,26-35,Male,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+1218,26-35,Female,Tier 2,20k-50k,Domestic,Call,2-3 months,1,4,1,2
+1219,18-25,Female,Tier 1,50k-1L,Domestic,Agent,3-6 months,1,2,1,5
+1220,36-50,Female,Tier 2,1L+,Domestic,Mobile App,Monthly,1,1,0,5
+1221,18-25,Female,Tier 2,<20k,Domestic,Mobile App,Monthly,0,2,0,4
+1222,26-35,Prefer not to say,Tier 3,<20k,Domestic,Agent,3-6 months,1,6,1,1
+1223,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,3
+1224,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,4
+1225,18-25,Male,Tier 1,<20k,Commercial,Agent,3-6 months,0,2,1,3
+1226,26-35,Male,Tier 1,<20k,Domestic,Mobile App,Monthly,1,1,0,5
+1227,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,2
+1228,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Call,3-6 months,1,3,1,4
+1229,26-35,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1230,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,2-3 months,1,6,1,1
+1231,36-50,Male,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,1,1,0,5
+1232,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,1,0,5
+1233,18-25,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,3
+1234,18-25,Male,Tier 2,20k-50k,Domestic,Website,3-6 months,1,5,1,1
+1235,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,1,0,5
+1236,50+,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,2,0,3
+1237,18-25,Female,Tier 1,<20k,Domestic,Mobile App,Monthly,1,2,0,3
+1238,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,2,0,5
+1239,18-25,Female,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,3
+1240,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,4
+1241,18-25,Female,Tier 2,20k-50k,Domestic,Call,3-6 months,1,2,1,4
+1242,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,4
+1243,36-50,Male,Tier 3,1L+,Domestic,Agent,Monthly,1,2,1,3
+1244,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Call,Monthly,0,2,1,3
+1245,36-50,Female,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,1,2,0,3
+1246,50+,Female,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,3,0,2
+1247,26-35,Male,Tier 2,20k-50k,Commercial,Agent,2-3 months,0,3,1,3
+1248,26-35,Male,Tier 2,1L+,Commercial,Agent,3-6 months,0,3,1,3
+1249,26-35,Prefer not to say,Tier 3,1L+,Commercial,Mobile App,3-6 months,1,2,0,4
+1250,50+,Female,Tier 2,50k-1L,Domestic,Website,2-3 months,1,4,1,3
+1251,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,2
+1252,26-35,Female,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,4
+1253,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,2
+1254,26-35,Male,Tier 1,20k-50k,Domestic,Website,Monthly,0,4,1,3
+1255,18-25,Female,Tier 1,<20k,Domestic,Call,2-3 months,0,6,1,1
+1256,26-35,Prefer not to say,Tier 3,20k-50k,Domestic,Agent,2-3 months,1,3,1,4
+1257,26-35,Male,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,4
+1258,36-50,Male,Tier 3,<20k,Commercial,Mobile App,3-6 months,0,2,0,4
+1259,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,Monthly,1,3,0,4
+1260,36-50,Female,Tier 2,<20k,Domestic,Agent,Monthly,1,3,1,4
+1261,36-50,Female,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,3
+1262,36-50,Male,Tier 2,1L+,Commercial,Mobile App,3-6 months,1,1,0,5
+1263,36-50,Female,Tier 2,1L+,Domestic,Mobile App,Monthly,1,3,0,3
+1264,36-50,Female,Tier 2,20k-50k,Domestic,Agent,3-6 months,0,5,1,1
+1265,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,1,0,5
+1266,36-50,Male,Tier 2,50k-1L,Commercial,Mobile App,2-3 months,1,1,0,5
+1267,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1268,50+,Female,Tier 3,20k-50k,Domestic,Website,2-3 months,1,6,1,1
+1269,18-25,Male,Tier 3,<20k,Domestic,Agent,Monthly,0,5,1,1
+1270,26-35,Male,Tier 2,1L+,Domestic,Agent,Monthly,1,6,1,1
+1271,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,2,0,5
+1272,26-35,Female,Tier 2,20k-50k,Commercial,Mobile App,Monthly,0,2,0,4
+1273,36-50,Female,Tier 2,50k-1L,Commercial,Website,2-3 months,1,4,1,1
+1274,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1275,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,2
+1276,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,3,0,2
+1277,18-25,Male,Tier 2,<20k,Domestic,Website,3-6 months,1,5,1,1
+1278,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+1279,18-25,Female,Tier 2,20k-50k,Domestic,Call,3-6 months,1,3,1,4
+1280,50+,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,1,2,1,3
+1281,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+1282,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,3
+1283,18-25,Male,Tier 1,20k-50k,Domestic,Website,2-3 months,0,2,0,4
+1284,18-25,Female,Tier 2,50k-1L,Domestic,Website,Monthly,1,2,0,4
+1285,36-50,Female,Tier 1,50k-1L,Domestic,Agent,2-3 months,0,4,1,1
+1286,26-35,Female,Tier 1,50k-1L,Domestic,Call,2-3 months,1,6,1,1
+1287,26-35,Prefer not to say,Tier 2,50k-1L,Commercial,Mobile App,3-6 months,1,2,0,5
+1288,26-35,Prefer not to say,Tier 1,<20k,Domestic,Website,Monthly,1,5,1,1
+1289,50+,Prefer not to say,Tier 1,20k-50k,Commercial,Mobile App,3-6 months,1,3,0,3
+1290,18-25,Female,Tier 1,1L+,Commercial,Agent,Monthly,1,4,1,1
+1291,18-25,Female,Tier 3,20k-50k,Domestic,Website,3-6 months,0,3,0,2
+1292,18-25,Prefer not to say,Tier 3,<20k,Domestic,Call,Monthly,1,3,1,2
+1293,50+,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,0,5,1,1
+1294,18-25,Female,Tier 3,<20k,Commercial,Agent,Monthly,1,5,1,1
+1295,50+,Male,Tier 2,<20k,Commercial,Mobile App,2-3 months,1,1,0,5
+1296,26-35,Male,Tier 2,1L+,Domestic,Call,2-3 months,0,2,1,4
+1297,36-50,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+1298,18-25,Female,Tier 2,20k-50k,Domestic,Call,3-6 months,0,3,1,4
+1299,18-25,Male,Tier 2,1L+,Domestic,Mobile App,Monthly,0,3,0,3
+1300,26-35,Male,Tier 2,1L+,Domestic,Mobile App,Monthly,1,1,0,5
+1301,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,2-3 months,0,6,1,1
+1302,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Website,2-3 months,0,2,0,3
+1303,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+1304,26-35,Prefer not to say,Tier 3,50k-1L,Domestic,Call,3-6 months,1,3,1,4
+1305,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Call,2-3 months,0,4,1,3
+1306,36-50,Prefer not to say,Tier 2,50k-1L,Commercial,Website,3-6 months,1,3,0,4
+1307,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+1308,50+,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,0,4,1,1
+1309,18-25,Female,Tier 2,50k-1L,Domestic,Website,Monthly,1,5,1,1
+1310,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+1311,36-50,Male,Tier 2,50k-1L,Domestic,Website,2-3 months,1,5,1,1
+1312,26-35,Male,Tier 1,20k-50k,Domestic,Website,Monthly,1,3,0,3
+1313,18-25,Male,Tier 2,<20k,Domestic,Website,3-6 months,0,3,0,3
+1314,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1315,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,5
+1316,50+,Female,Tier 1,20k-50k,Domestic,Agent,3-6 months,0,6,1,1
+1317,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,3,0,3
+1318,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Call,Monthly,1,4,1,2
+1319,26-35,Male,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,5
+1320,36-50,Female,Tier 3,<20k,Domestic,Mobile App,Monthly,1,3,0,2
+1321,50+,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,5
+1322,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Call,Monthly,1,3,1,3
+1323,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,2
+1324,26-35,Male,Tier 1,20k-50k,Domestic,Call,3-6 months,0,2,1,3
+1325,18-25,Prefer not to say,Tier 2,1L+,Domestic,Call,3-6 months,0,5,1,1
+1326,18-25,Female,Tier 2,20k-50k,Domestic,Call,Monthly,1,3,1,3
+1327,18-25,Female,Tier 2,<20k,Commercial,Call,3-6 months,1,4,1,1
+1328,18-25,Male,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,1,1,0,5
+1329,26-35,Male,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+1330,18-25,Prefer not to say,Tier 3,1L+,Commercial,Mobile App,2-3 months,1,3,0,2
+1331,26-35,Male,Tier 2,<20k,Domestic,Call,3-6 months,0,6,1,1
+1332,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Call,2-3 months,1,6,1,1
+1333,36-50,Female,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,5
+1334,50+,Female,Tier 1,<20k,Commercial,Mobile App,2-3 months,0,2,0,3
+1335,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,Monthly,1,6,1,1
+1336,26-35,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,3,0,3
+1337,36-50,Female,Tier 1,20k-50k,Domestic,Website,3-6 months,1,3,0,3
+1338,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,1,0,5
+1339,26-35,Female,Tier 3,1L+,Domestic,Website,Monthly,0,3,0,3
+1340,26-35,Prefer not to say,Tier 3,1L+,Domestic,Mobile App,Monthly,1,2,0,4
+1341,36-50,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,2-3 months,1,3,0,3
+1342,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,3
+1343,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,5
+1344,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+1345,36-50,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,4
+1346,36-50,Male,Tier 1,20k-50k,Domestic,Call,2-3 months,1,6,1,1
+1347,36-50,Female,Tier 1,20k-50k,Commercial,Mobile App,2-3 months,0,2,0,3
+1348,36-50,Female,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,4,1,3
+1349,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,3
+1350,18-25,Female,Tier 2,1L+,Domestic,Website,Monthly,1,4,1,3
+1351,50+,Female,Tier 1,1L+,Domestic,Call,3-6 months,0,5,1,1
+1352,50+,Male,Tier 1,<20k,Commercial,Mobile App,3-6 months,1,2,0,5
+1353,36-50,Female,Tier 2,<20k,Domestic,Mobile App,Monthly,0,1,0,5
+1354,26-35,Female,Tier 2,1L+,Domestic,Mobile App,Monthly,1,2,0,3
+1355,26-35,Male,Tier 2,1L+,Domestic,Mobile App,Monthly,0,1,0,4
+1356,50+,Female,Tier 1,<20k,Domestic,Call,3-6 months,1,6,1,1
+1357,50+,Male,Tier 1,50k-1L,Domestic,Call,3-6 months,1,3,1,2
+1358,36-50,Male,Tier 2,20k-50k,Domestic,Website,3-6 months,1,4,1,1
+1359,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Call,2-3 months,1,4,1,1
+1360,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Website,Monthly,1,4,1,2
+1361,26-35,Prefer not to say,Tier 2,<20k,Domestic,Website,Monthly,1,5,1,1
+1362,26-35,Prefer not to say,Tier 3,1L+,Domestic,Agent,Monthly,1,3,1,4
+1363,18-25,Female,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,4
+1364,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,2,0,3
+1365,50+,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,2,0,5
+1366,26-35,Female,Tier 2,20k-50k,Domestic,Call,2-3 months,0,2,1,3
+1367,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,5
+1368,26-35,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,0,2,0,3
+1369,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,3
+1370,26-35,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,2
+1371,36-50,Prefer not to say,Tier 1,<20k,Domestic,Agent,3-6 months,1,6,1,1
+1372,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,5
+1373,50+,Male,Tier 3,20k-50k,Domestic,Call,3-6 months,1,2,1,3
+1374,26-35,Female,Tier 1,20k-50k,Domestic,Agent,3-6 months,0,5,1,1
+1375,36-50,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+1376,18-25,Female,Tier 2,20k-50k,Domestic,Call,Monthly,1,2,1,3
+1377,50+,Prefer not to say,Tier 3,<20k,Domestic,Agent,2-3 months,1,4,1,1
+1378,18-25,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,0,2,0,3
+1379,26-35,Female,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,1,1,0,4
+1380,26-35,Female,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,4
+1381,26-35,Female,Tier 1,50k-1L,Domestic,Call,3-6 months,0,2,1,5
+1382,50+,Male,Tier 1,20k-50k,Domestic,Call,3-6 months,0,2,1,3
+1383,36-50,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,1,0,4
+1384,50+,Male,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,3,0,4
+1385,18-25,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,1,0,5
+1386,50+,Prefer not to say,Tier 2,<20k,Commercial,Agent,3-6 months,1,3,1,4
+1387,18-25,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,3
+1388,50+,Female,Tier 1,<20k,Domestic,Agent,3-6 months,1,2,1,4
+1389,36-50,Prefer not to say,Tier 1,<20k,Commercial,Mobile App,Monthly,1,3,0,4
+1390,18-25,Male,Tier 1,<20k,Domestic,Agent,Monthly,0,6,1,1
+1391,26-35,Female,Tier 3,<20k,Domestic,Call,3-6 months,1,3,1,3
+1392,26-35,Prefer not to say,Tier 2,<20k,Domestic,Call,3-6 months,1,4,1,1
+1393,50+,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1394,26-35,Female,Tier 1,20k-50k,Domestic,Agent,3-6 months,0,3,1,3
+1395,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,0,1,0,4
+1396,26-35,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,2,0,4
+1397,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Call,2-3 months,0,4,1,2
+1398,36-50,Prefer not to say,Tier 2,20k-50k,Commercial,Agent,2-3 months,1,6,1,1
+1399,50+,Prefer not to say,Tier 2,<20k,Domestic,Call,2-3 months,0,3,1,2
+1400,18-25,Male,Tier 3,<20k,Domestic,Mobile App,3-6 months,1,1,0,4
+1401,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Call,2-3 months,0,6,1,1
+1402,36-50,Female,Tier 2,50k-1L,Domestic,Call,2-3 months,1,4,1,1
+1403,18-25,Prefer not to say,Tier 3,<20k,Commercial,Website,Monthly,1,3,0,3
+1404,26-35,Female,Tier 2,<20k,Domestic,Agent,2-3 months,0,3,1,4
+1405,26-35,Male,Tier 2,50k-1L,Domestic,Call,2-3 months,1,2,1,5
+1406,50+,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,3
+1407,26-35,Female,Tier 1,<20k,Commercial,Agent,2-3 months,0,4,1,3
+1408,18-25,Female,Tier 1,50k-1L,Domestic,Call,2-3 months,1,3,1,4
+1409,36-50,Male,Tier 2,50k-1L,Domestic,Website,3-6 months,1,2,0,3
+1410,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,2,0,4
+1411,50+,Prefer not to say,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,0,2,0,5
+1412,26-35,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,2
+1413,18-25,Female,Tier 3,<20k,Domestic,Call,Monthly,1,6,1,1
+1414,50+,Prefer not to say,Tier 3,20k-50k,Domestic,Website,Monthly,1,3,0,2
+1415,26-35,Male,Tier 1,<20k,Domestic,Mobile App,2-3 months,0,3,0,4
+1416,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,Monthly,1,5,1,2
+1417,18-25,Male,Tier 1,1L+,Commercial,Call,3-6 months,0,4,1,2
+1418,36-50,Female,Tier 2,1L+,Commercial,Agent,2-3 months,1,4,1,2
+1419,18-25,Prefer not to say,Tier 3,<20k,Commercial,Mobile App,3-6 months,0,2,0,4
+1420,18-25,Male,Tier 1,20k-50k,Domestic,Agent,Monthly,1,6,1,1
+1421,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+1422,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,Monthly,1,3,1,3
+1423,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,4
+1424,36-50,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,Monthly,1,3,0,3
+1425,50+,Male,Tier 2,<20k,Domestic,Agent,3-6 months,1,5,1,2
+1426,26-35,Female,Tier 1,20k-50k,Commercial,Mobile App,Monthly,1,3,0,3
+1427,36-50,Male,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+1428,36-50,Male,Tier 1,50k-1L,Commercial,Call,Monthly,1,3,1,3
+1429,26-35,Male,Tier 2,50k-1L,Domestic,Call,2-3 months,1,4,1,1
+1430,36-50,Female,Tier 1,20k-50k,Domestic,Call,2-3 months,0,2,1,3
+1431,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+1432,18-25,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+1433,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,2
+1434,50+,Female,Tier 2,1L+,Commercial,Mobile App,2-3 months,1,1,0,4
+1435,50+,Prefer not to say,Tier 2,1L+,Domestic,Website,Monthly,1,3,0,3
+1436,26-35,Female,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+1437,26-35,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,Monthly,0,2,0,5
+1438,18-25,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,3,0,4
+1439,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+1440,36-50,Female,Tier 1,1L+,Domestic,Call,Monthly,1,2,1,4
+1441,18-25,Male,Tier 1,<20k,Commercial,Call,3-6 months,0,3,1,2
+1442,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,2,0,3
+1443,50+,Male,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,1,0,4
+1444,36-50,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,2
+1445,36-50,Female,Tier 1,20k-50k,Domestic,Agent,3-6 months,1,5,1,1
+1446,18-25,Prefer not to say,Tier 3,50k-1L,Commercial,Call,Monthly,0,5,1,1
+1447,50+,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,2,0,3
+1448,50+,Prefer not to say,Tier 2,<20k,Commercial,Mobile App,3-6 months,1,3,0,4
+1449,26-35,Male,Tier 2,50k-1L,Domestic,Agent,Monthly,1,2,1,3
+1450,50+,Female,Tier 3,20k-50k,Domestic,Agent,3-6 months,1,5,1,1
+1451,50+,Female,Tier 1,1L+,Commercial,Website,3-6 months,1,4,1,1
+1452,18-25,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+1453,50+,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,3,0,3
+1454,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,0,2,0,4
+1455,18-25,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,5,1,2
+1456,18-25,Prefer not to say,Tier 1,<20k,Domestic,Website,Monthly,1,2,0,5
+1457,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,3
+1458,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,2,0,3
+1459,26-35,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,1,0,4
+1460,36-50,Prefer not to say,Tier 2,<20k,Commercial,Mobile App,Monthly,1,1,0,5
+1461,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,3
+1462,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Call,Monthly,1,3,1,3
+1463,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+1464,36-50,Female,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,3
+1465,36-50,Prefer not to say,Tier 2,1L+,Domestic,Call,3-6 months,1,4,1,1
+1466,26-35,Male,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,4
+1467,26-35,Male,Tier 3,<20k,Domestic,Mobile App,3-6 months,0,3,0,4
+1468,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1469,50+,Male,Tier 1,<20k,Domestic,Agent,Monthly,1,4,1,3
+1470,18-25,Male,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,2,1,3
+1471,18-25,Female,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,5
+1472,26-35,Male,Tier 2,50k-1L,Domestic,Call,2-3 months,1,3,1,4
+1473,18-25,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,2,0,3
+1474,26-35,Female,Tier 3,20k-50k,Domestic,Call,3-6 months,0,2,1,5
+1475,50+,Female,Tier 2,20k-50k,Commercial,Agent,Monthly,0,6,1,1
+1476,50+,Prefer not to say,Tier 1,<20k,Domestic,Agent,2-3 months,1,2,1,3
+1477,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,3
+1478,50+,Female,Tier 2,1L+,Domestic,Website,Monthly,0,4,1,2
+1479,26-35,Prefer not to say,Tier 1,20k-50k,Commercial,Website,Monthly,1,2,0,3
+1480,50+,Male,Tier 3,50k-1L,Commercial,Agent,Monthly,1,4,1,3
+1481,36-50,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,0,4,1,3
+1482,18-25,Female,Tier 3,<20k,Domestic,Mobile App,2-3 months,1,3,0,2
+1483,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,2,0,4
+1484,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,4
+1485,36-50,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,2,0,4
+1486,36-50,Male,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,3,1,4
+1487,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Call,3-6 months,1,6,1,1
+1488,18-25,Male,Tier 2,20k-50k,Domestic,Website,3-6 months,0,3,0,3
+1489,18-25,Male,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+1490,18-25,Female,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,3
+1491,18-25,Female,Tier 1,50k-1L,Commercial,Agent,2-3 months,1,5,1,1
+1492,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,4
+1493,36-50,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,2,0,3
+1494,26-35,Prefer not to say,Tier 2,1L+,Domestic,Website,Monthly,1,6,1,1
+1495,26-35,Prefer not to say,Tier 2,<20k,Domestic,Agent,3-6 months,0,5,1,1
+1496,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,4
+1497,50+,Female,Tier 2,<20k,Domestic,Agent,2-3 months,1,4,1,3
+1498,50+,Female,Tier 1,20k-50k,Domestic,Call,Monthly,1,5,1,1
+1499,36-50,Female,Tier 2,20k-50k,Domestic,Agent,Monthly,1,3,1,3
+1500,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,Monthly,0,5,1,2
+1501,36-50,Female,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,1,3,0,3
+1502,26-35,Male,Tier 3,<20k,Domestic,Call,Monthly,1,2,1,3
+1503,26-35,Male,Tier 3,20k-50k,Commercial,Mobile App,Monthly,1,1,0,5
+1504,36-50,Female,Tier 1,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,2
+1505,36-50,Male,Tier 1,1L+,Domestic,Website,Monthly,1,2,0,4
+1506,36-50,Male,Tier 2,<20k,Domestic,Call,3-6 months,0,2,1,3
+1507,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,3-6 months,1,2,1,3
+1508,26-35,Female,Tier 1,50k-1L,Domestic,Agent,3-6 months,1,6,1,1
+1509,50+,Female,Tier 2,20k-50k,Domestic,Website,3-6 months,1,2,0,3
+1510,50+,Prefer not to say,Tier 2,<20k,Domestic,Agent,3-6 months,1,3,1,4
+1511,36-50,Male,Tier 1,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,3
+1512,36-50,Male,Tier 2,1L+,Domestic,Mobile App,3-6 months,1,2,0,5
+1513,18-25,Female,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,1,2,0,4
+1514,18-25,Male,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,4
+1515,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,3
+1516,26-35,Prefer not to say,Tier 2,<20k,Domestic,Call,2-3 months,1,3,1,3
+1517,36-50,Female,Tier 3,50k-1L,Domestic,Call,3-6 months,1,5,1,1
+1518,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Website,2-3 months,0,3,0,4
+1519,50+,Prefer not to say,Tier 2,<20k,Domestic,Agent,2-3 months,1,5,1,1
+1520,18-25,Female,Tier 2,50k-1L,Domestic,Call,3-6 months,1,2,1,3
+1521,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,4
+1522,18-25,Prefer not to say,Tier 2,1L+,Commercial,Mobile App,2-3 months,0,3,0,4
+1523,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,4
+1524,18-25,Male,Tier 1,<20k,Domestic,Agent,3-6 months,1,5,1,1
+1525,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,0,2,0,3
+1526,36-50,Female,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,5,1,1
+1527,36-50,Female,Tier 1,<20k,Domestic,Call,2-3 months,0,3,1,3
+1528,18-25,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+1529,26-35,Male,Tier 1,20k-50k,Commercial,Mobile App,2-3 months,1,3,0,4
+1530,50+,Female,Tier 1,50k-1L,Domestic,Mobile App,Monthly,0,1,0,5
+1531,26-35,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,0,2,0,4
+1532,26-35,Female,Tier 2,20k-50k,Domestic,Agent,Monthly,1,3,1,4
+1533,26-35,Male,Tier 1,<20k,Domestic,Agent,2-3 months,1,2,1,5
+1534,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Call,2-3 months,0,6,1,1
+1535,36-50,Prefer not to say,Tier 3,<20k,Domestic,Agent,2-3 months,1,2,1,5
+1536,26-35,Female,Tier 1,1L+,Domestic,Call,2-3 months,0,6,1,1
+1537,18-25,Male,Tier 2,50k-1L,Domestic,Website,2-3 months,0,6,1,1
+1538,26-35,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+1539,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,2-3 months,1,2,1,3
+1540,18-25,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,Monthly,1,2,0,3
+1541,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+1542,36-50,Male,Tier 2,50k-1L,Commercial,Mobile App,2-3 months,0,2,0,3
+1543,50+,Male,Tier 1,1L+,Domestic,Call,3-6 months,1,3,1,3
+1544,18-25,Male,Tier 1,<20k,Domestic,Mobile App,Monthly,0,1,0,5
+1545,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1546,50+,Male,Tier 1,50k-1L,Domestic,Website,2-3 months,0,6,1,1
+1547,50+,Female,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,3,1,3
+1548,36-50,Male,Tier 2,<20k,Domestic,Agent,3-6 months,0,2,1,4
+1549,18-25,Prefer not to say,Tier 2,<20k,Domestic,Agent,Monthly,1,6,1,1
+1550,50+,Female,Tier 3,20k-50k,Commercial,Website,2-3 months,1,3,0,4
+1551,18-25,Male,Tier 2,50k-1L,Commercial,Call,2-3 months,1,2,1,4
+1552,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,3,0,4
+1553,36-50,Female,Tier 3,20k-50k,Domestic,Agent,3-6 months,1,2,1,3
+1554,50+,Prefer not to say,Tier 1,1L+,Domestic,Agent,2-3 months,0,6,1,1
+1555,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,3
+1556,18-25,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+1557,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,1,0,4
+1558,36-50,Male,Tier 2,<20k,Domestic,Website,Monthly,1,4,1,1
+1559,36-50,Female,Tier 1,1L+,Domestic,Mobile App,2-3 months,1,1,0,4
+1560,36-50,Female,Tier 2,20k-50k,Domestic,Website,3-6 months,1,5,1,1
+1561,36-50,Prefer not to say,Tier 1,<20k,Domestic,Website,3-6 months,1,2,0,5
+1562,50+,Male,Tier 3,20k-50k,Domestic,Call,3-6 months,0,3,1,2
+1563,50+,Prefer not to say,Tier 1,<20k,Domestic,Call,2-3 months,1,4,1,1
+1564,26-35,Female,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,4
+1565,36-50,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,3,0,3
+1566,36-50,Male,Tier 3,1L+,Domestic,Mobile App,2-3 months,1,2,0,3
+1567,18-25,Female,Tier 2,1L+,Domestic,Agent,3-6 months,1,3,1,2
+1568,50+,Female,Tier 2,<20k,Domestic,Mobile App,Monthly,0,1,0,5
+1569,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,3,0,2
+1570,26-35,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,1,0,4
+1571,26-35,Female,Tier 1,50k-1L,Domestic,Website,2-3 months,1,4,1,1
+1572,50+,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,4
+1573,26-35,Female,Tier 3,20k-50k,Domestic,Website,3-6 months,1,3,0,4
+1574,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,5
+1575,50+,Male,Tier 1,20k-50k,Domestic,Call,2-3 months,1,6,1,1
+1576,36-50,Female,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,1,2,0,4
+1577,36-50,Female,Tier 2,1L+,Domestic,Call,3-6 months,0,4,1,3
+1578,26-35,Male,Tier 2,1L+,Domestic,Call,Monthly,1,6,1,1
+1579,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,3,0,4
+1580,36-50,Female,Tier 3,20k-50k,Domestic,Call,Monthly,0,4,1,2
+1581,50+,Female,Tier 1,1L+,Domestic,Call,3-6 months,1,6,1,1
+1582,26-35,Prefer not to say,Tier 2,<20k,Domestic,Call,2-3 months,0,6,1,1
+1583,18-25,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,0,3,1,2
+1584,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,1,0,4
+1585,26-35,Female,Tier 1,20k-50k,Domestic,Call,3-6 months,0,2,1,4
+1586,26-35,Prefer not to say,Tier 1,<20k,Domestic,Website,3-6 months,1,3,0,4
+1587,18-25,Female,Tier 3,20k-50k,Commercial,Agent,Monthly,0,3,1,3
+1588,18-25,Prefer not to say,Tier 2,<20k,Domestic,Website,2-3 months,1,4,1,3
+1589,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,2,0,5
+1590,50+,Prefer not to say,Tier 3,1L+,Domestic,Agent,3-6 months,1,4,1,1
+1591,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Call,2-3 months,1,2,1,3
+1592,36-50,Prefer not to say,Tier 1,50k-1L,Commercial,Mobile App,Monthly,1,3,0,2
+1593,50+,Male,Tier 2,20k-50k,Commercial,Agent,3-6 months,0,3,1,3
+1594,50+,Prefer not to say,Tier 2,<20k,Domestic,Call,Monthly,1,6,1,1
+1595,50+,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,3
+1596,50+,Female,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,2,0,3
+1597,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,6,1,1
+1598,18-25,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,2,0,5
+1599,50+,Female,Tier 3,50k-1L,Commercial,Mobile App,2-3 months,1,2,0,4
+1600,18-25,Prefer not to say,Tier 1,20k-50k,Commercial,Mobile App,Monthly,0,2,0,4
+1601,50+,Male,Tier 1,20k-50k,Commercial,Mobile App,Monthly,1,1,0,5
+1602,36-50,Prefer not to say,Tier 2,1L+,Domestic,Website,Monthly,1,4,1,3
+1603,26-35,Female,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+1604,18-25,Female,Tier 1,20k-50k,Domestic,Call,3-6 months,1,2,1,5
+1605,50+,Prefer not to say,Tier 3,1L+,Domestic,Website,3-6 months,1,3,0,2
+1606,36-50,Male,Tier 3,50k-1L,Domestic,Call,Monthly,1,4,1,1
+1607,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,4
+1608,18-25,Female,Tier 1,<20k,Domestic,Agent,3-6 months,1,6,1,1
+1609,26-35,Female,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,1,0,4
+1610,36-50,Male,Tier 1,20k-50k,Commercial,Mobile App,Monthly,1,2,0,4
+1611,18-25,Prefer not to say,Tier 1,50k-1L,Commercial,Agent,3-6 months,1,5,1,1
+1612,26-35,Female,Tier 3,20k-50k,Commercial,Agent,3-6 months,1,6,1,1
+1613,50+,Male,Tier 1,<20k,Domestic,Agent,Monthly,1,4,1,1
+1614,18-25,Female,Tier 2,<20k,Domestic,Website,2-3 months,0,3,0,4
+1615,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,Monthly,1,3,1,4
+1616,36-50,Male,Tier 3,<20k,Domestic,Agent,2-3 months,1,6,1,1
+1617,36-50,Female,Tier 2,20k-50k,Commercial,Agent,3-6 months,1,2,1,5
+1618,18-25,Prefer not to say,Tier 3,<20k,Commercial,Mobile App,2-3 months,1,3,0,3
+1619,26-35,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,2
+1620,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,Monthly,1,2,1,3
+1621,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Call,3-6 months,1,6,1,1
+1622,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+1623,26-35,Prefer not to say,Tier 2,<20k,Commercial,Mobile App,Monthly,1,2,0,4
+1624,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+1625,26-35,Prefer not to say,Tier 1,<20k,Domestic,Call,Monthly,0,2,1,5
+1626,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,Monthly,1,3,1,4
+1627,18-25,Male,Tier 2,1L+,Domestic,Website,2-3 months,0,4,1,3
+1628,18-25,Prefer not to say,Tier 2,<20k,Domestic,Agent,Monthly,1,5,1,1
+1629,36-50,Prefer not to say,Tier 2,1L+,Commercial,Agent,3-6 months,0,5,1,2
+1630,26-35,Female,Tier 1,<20k,Domestic,Mobile App,Monthly,0,1,0,5
+1631,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,4
+1632,36-50,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,4
+1633,50+,Male,Tier 1,1L+,Domestic,Call,Monthly,0,5,1,2
+1634,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,2,0,3
+1635,18-25,Male,Tier 1,20k-50k,Domestic,Call,2-3 months,0,2,1,3
+1636,36-50,Prefer not to say,Tier 1,1L+,Domestic,Call,3-6 months,1,3,1,4
+1637,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,4
+1638,18-25,Female,Tier 1,20k-50k,Domestic,Website,2-3 months,1,4,1,2
+1639,18-25,Female,Tier 1,20k-50k,Domestic,Call,2-3 months,1,5,1,1
+1640,26-35,Female,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,3
+1641,50+,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,0,3,0,3
+1642,18-25,Female,Tier 1,<20k,Domestic,Call,2-3 months,1,3,1,3
+1643,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,5
+1644,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,3
+1645,18-25,Male,Tier 1,1L+,Domestic,Call,2-3 months,1,3,1,4
+1646,36-50,Prefer not to say,Tier 2,1L+,Commercial,Website,3-6 months,1,2,0,3
+1647,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,2,0,5
+1648,50+,Female,Tier 3,50k-1L,Domestic,Website,Monthly,1,5,1,1
+1649,18-25,Prefer not to say,Tier 2,50k-1L,Commercial,Agent,2-3 months,1,6,1,1
+1650,26-35,Female,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,3,0,2
+1651,36-50,Male,Tier 2,50k-1L,Domestic,Agent,Monthly,1,5,1,1
+1652,26-35,Male,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,2,0,5
+1653,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,1,0,4
+1654,36-50,Male,Tier 1,50k-1L,Domestic,Call,3-6 months,0,4,1,1
+1655,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,3-6 months,1,2,1,3
+1656,36-50,Male,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,5
+1657,26-35,Female,Tier 3,<20k,Commercial,Website,2-3 months,1,3,0,2
+1658,36-50,Female,Tier 2,20k-50k,Domestic,Agent,Monthly,1,2,1,5
+1659,18-25,Female,Tier 2,<20k,Domestic,Website,2-3 months,1,3,0,3
+1660,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,1,0,5
+1661,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Website,3-6 months,1,5,1,1
+1662,36-50,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,3,0,3
+1663,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+1664,36-50,Female,Tier 3,<20k,Domestic,Agent,2-3 months,1,3,1,4
+1665,36-50,Prefer not to say,Tier 2,<20k,Domestic,Agent,2-3 months,1,2,1,4
+1666,26-35,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,1,3,1,3
+1667,50+,Prefer not to say,Tier 3,1L+,Domestic,Mobile App,Monthly,0,3,0,3
+1668,18-25,Male,Tier 1,<20k,Domestic,Mobile App,3-6 months,0,2,0,3
+1669,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Call,Monthly,1,4,1,2
+1670,50+,Male,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,4
+1671,26-35,Male,Tier 2,20k-50k,Domestic,Call,Monthly,1,5,1,1
+1672,18-25,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,4
+1673,50+,Male,Tier 1,50k-1L,Domestic,Website,2-3 months,1,5,1,2
+1674,18-25,Female,Tier 1,20k-50k,Domestic,Call,3-6 months,0,3,1,2
+1675,18-25,Female,Tier 2,20k-50k,Domestic,Agent,Monthly,0,3,1,2
+1676,18-25,Female,Tier 3,<20k,Domestic,Website,Monthly,1,3,0,3
+1677,36-50,Prefer not to say,Tier 2,1L+,Domestic,Call,3-6 months,0,5,1,2
+1678,36-50,Prefer not to say,Tier 1,1L+,Domestic,Mobile App,Monthly,1,3,0,3
+1679,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,1,0,4
+1680,26-35,Prefer not to say,Tier 1,<20k,Domestic,Agent,2-3 months,0,2,1,3
+1681,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,2
+1682,26-35,Male,Tier 2,<20k,Domestic,Call,3-6 months,1,4,1,2
+1683,18-25,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,2,0,4
+1684,18-25,Male,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,4
+1685,36-50,Male,Tier 1,1L+,Domestic,Call,Monthly,1,2,1,5
+1686,18-25,Female,Tier 3,1L+,Domestic,Website,Monthly,1,4,1,1
+1687,50+,Female,Tier 1,50k-1L,Domestic,Call,3-6 months,1,3,1,2
+1688,18-25,Female,Tier 2,<20k,Commercial,Website,Monthly,0,4,1,3
+1689,18-25,Female,Tier 2,20k-50k,Commercial,Website,2-3 months,1,5,1,1
+1690,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+1691,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,4
+1692,26-35,Male,Tier 2,50k-1L,Domestic,Agent,3-6 months,1,5,1,1
+1693,50+,Male,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,4,1,1
+1694,36-50,Male,Tier 2,20k-50k,Domestic,Call,Monthly,1,3,1,4
+1695,18-25,Female,Tier 2,<20k,Domestic,Website,Monthly,0,2,0,4
+1696,50+,Female,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,1,2,0,3
+1697,18-25,Female,Tier 2,20k-50k,Commercial,Mobile App,3-6 months,0,3,0,2
+1698,36-50,Prefer not to say,Tier 2,<20k,Domestic,Call,2-3 months,1,6,1,1
+1699,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,3
+1700,50+,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,5
+1701,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+1702,26-35,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1703,36-50,Male,Tier 2,<20k,Domestic,Call,2-3 months,0,6,1,1
+1704,36-50,Male,Tier 1,20k-50k,Domestic,Agent,3-6 months,1,3,1,4
+1705,36-50,Female,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,6,1,1
+1706,50+,Female,Tier 1,20k-50k,Domestic,Call,2-3 months,1,3,1,4
+1707,36-50,Prefer not to say,Tier 1,20k-50k,Commercial,Mobile App,Monthly,1,2,0,3
+1708,26-35,Female,Tier 1,20k-50k,Domestic,Call,Monthly,1,2,1,3
+1709,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,3
+1710,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,2
+1711,18-25,Female,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,3,0,2
+1712,18-25,Female,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,3,1,4
+1713,18-25,Male,Tier 2,<20k,Domestic,Website,Monthly,1,5,1,1
+1714,18-25,Male,Tier 1,20k-50k,Commercial,Call,2-3 months,1,3,1,4
+1715,26-35,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,Monthly,1,5,1,1
+1716,50+,Female,Tier 2,1L+,Domestic,Mobile App,3-6 months,1,2,0,3
+1717,50+,Male,Tier 2,50k-1L,Domestic,Call,2-3 months,1,4,1,3
+1718,36-50,Prefer not to say,Tier 2,1L+,Commercial,Agent,Monthly,1,5,1,2
+1719,26-35,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,2-3 months,1,1,0,5
+1720,18-25,Female,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,2,0,3
+1721,26-35,Female,Tier 1,20k-50k,Domestic,Agent,3-6 months,0,3,1,4
+1722,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,Monthly,1,4,1,2
+1723,36-50,Male,Tier 3,1L+,Domestic,Agent,2-3 months,1,3,1,2
+1724,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,2-3 months,1,6,1,1
+1725,26-35,Female,Tier 1,<20k,Domestic,Website,2-3 months,1,2,0,3
+1726,26-35,Male,Tier 3,50k-1L,Domestic,Mobile App,Monthly,1,1,0,5
+1727,50+,Male,Tier 3,<20k,Domestic,Mobile App,Monthly,1,1,0,4
+1728,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,4
+1729,26-35,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1730,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Call,3-6 months,1,6,1,1
+1731,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Call,3-6 months,1,5,1,1
+1732,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Call,2-3 months,1,3,1,4
+1733,36-50,Male,Tier 1,<20k,Commercial,Mobile App,2-3 months,1,3,0,2
+1734,50+,Male,Tier 2,20k-50k,Commercial,Website,2-3 months,0,6,1,1
+1735,18-25,Female,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,0,3,0,4
+1736,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1737,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,Monthly,1,4,1,1
+1738,36-50,Prefer not to say,Tier 2,<20k,Commercial,Agent,2-3 months,1,4,1,1
+1739,36-50,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,1,3,0,3
+1740,36-50,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,3
+1741,50+,Male,Tier 1,50k-1L,Domestic,Call,3-6 months,0,2,1,5
+1742,26-35,Male,Tier 1,<20k,Commercial,Mobile App,3-6 months,1,3,0,3
+1743,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,2
+1744,36-50,Prefer not to say,Tier 1,<20k,Domestic,Call,3-6 months,1,3,1,3
+1745,26-35,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,3
+1746,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,4
+1747,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,1,0,4
+1748,18-25,Male,Tier 2,1L+,Domestic,Website,3-6 months,0,6,1,1
+1749,36-50,Prefer not to say,Tier 1,1L+,Domestic,Website,3-6 months,1,2,0,3
+1750,36-50,Female,Tier 1,20k-50k,Commercial,Mobile App,Monthly,1,2,0,3
+1751,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+1752,50+,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,4
+1753,26-35,Male,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,5
+1754,36-50,Prefer not to say,Tier 2,<20k,Domestic,Call,3-6 months,1,5,1,1
+1755,18-25,Male,Tier 2,50k-1L,Domestic,Call,Monthly,0,2,1,5
+1756,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,4
+1757,18-25,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,3,0,3
+1758,18-25,Female,Tier 2,20k-50k,Commercial,Mobile App,Monthly,0,3,0,3
+1759,36-50,Female,Tier 2,20k-50k,Commercial,Mobile App,2-3 months,1,3,0,3
+1760,36-50,Male,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,1,3,0,4
+1761,50+,Prefer not to say,Tier 2,<20k,Domestic,Call,Monthly,1,2,1,4
+1762,36-50,Male,Tier 3,<20k,Domestic,Call,3-6 months,0,4,1,2
+1763,36-50,Prefer not to say,Tier 2,<20k,Domestic,Call,2-3 months,1,2,1,4
+1764,36-50,Male,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,4
+1765,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Call,Monthly,1,6,1,1
+1766,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,4
+1767,26-35,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,3
+1768,18-25,Male,Tier 3,<20k,Domestic,Call,2-3 months,1,5,1,1
+1769,36-50,Female,Tier 1,1L+,Domestic,Mobile App,3-6 months,1,1,0,4
+1770,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Call,3-6 months,1,2,1,4
+1771,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Agent,Monthly,0,6,1,1
+1772,36-50,Prefer not to say,Tier 1,<20k,Domestic,Website,Monthly,0,3,0,3
+1773,18-25,Prefer not to say,Tier 3,50k-1L,Domestic,Website,2-3 months,1,2,0,4
+1774,50+,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+1775,36-50,Female,Tier 2,<20k,Commercial,Website,Monthly,0,5,1,1
+1776,50+,Female,Tier 2,<20k,Domestic,Call,2-3 months,1,6,1,1
+1777,26-35,Female,Tier 3,20k-50k,Commercial,Call,Monthly,1,6,1,1
+1778,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,1,2,0,3
+1779,50+,Male,Tier 2,50k-1L,Domestic,Agent,2-3 months,0,3,1,4
+1780,50+,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+1781,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,2-3 months,0,5,1,1
+1782,50+,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,2,0,3
+1783,50+,Female,Tier 1,20k-50k,Domestic,Call,3-6 months,1,5,1,1
+1784,26-35,Prefer not to say,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,3,0,2
+1785,36-50,Female,Tier 1,<20k,Domestic,Mobile App,Monthly,1,2,0,4
+1786,50+,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,0,1,0,4
+1787,50+,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,3,0,2
+1788,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,2,0,5
+1789,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1790,26-35,Female,Tier 1,20k-50k,Domestic,Call,Monthly,1,5,1,1
+1791,18-25,Female,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,6,1,1
+1792,26-35,Prefer not to say,Tier 3,<20k,Domestic,Call,Monthly,1,5,1,2
+1793,36-50,Female,Tier 3,50k-1L,Domestic,Mobile App,Monthly,1,1,0,4
+1794,36-50,Male,Tier 1,20k-50k,Commercial,Mobile App,3-6 months,1,2,0,3
+1795,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1796,26-35,Female,Tier 3,1L+,Domestic,Website,2-3 months,0,4,1,2
+1797,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Agent,Monthly,1,4,1,1
+1798,26-35,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1799,36-50,Female,Tier 2,50k-1L,Domestic,Mobile App,3-6 months,0,3,0,3
+1800,18-25,Prefer not to say,Tier 2,<20k,Domestic,Agent,3-6 months,1,5,1,1
+1801,36-50,Male,Tier 3,<20k,Domestic,Agent,Monthly,0,6,1,1
+1802,18-25,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,1,4,1,3
+1803,36-50,Prefer not to say,Tier 1,1L+,Domestic,Agent,2-3 months,1,3,1,2
+1804,50+,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1805,18-25,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,Monthly,0,1,0,5
+1806,36-50,Male,Tier 1,<20k,Domestic,Mobile App,3-6 months,0,1,0,5
+1807,50+,Prefer not to say,Tier 2,50k-1L,Commercial,Mobile App,Monthly,0,1,0,5
+1808,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+1809,50+,Male,Tier 1,50k-1L,Domestic,Call,3-6 months,1,4,1,1
+1810,26-35,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,Monthly,1,2,0,4
+1811,26-35,Prefer not to say,Tier 3,50k-1L,Commercial,Mobile App,3-6 months,1,3,0,2
+1812,18-25,Female,Tier 3,1L+,Domestic,Mobile App,Monthly,1,2,0,5
+1813,36-50,Female,Tier 3,50k-1L,Domestic,Mobile App,Monthly,1,3,0,2
+1814,18-25,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,3,0,3
+1815,50+,Male,Tier 2,1L+,Domestic,Agent,3-6 months,0,5,1,1
+1816,36-50,Male,Tier 3,<20k,Domestic,Agent,Monthly,1,5,1,1
+1817,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,4
+1818,36-50,Male,Tier 2,50k-1L,Commercial,Call,3-6 months,1,6,1,1
+1819,26-35,Male,Tier 3,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+1820,36-50,Male,Tier 1,20k-50k,Domestic,Call,2-3 months,1,4,1,2
+1821,36-50,Female,Tier 2,<20k,Domestic,Mobile App,3-6 months,0,2,0,5
+1822,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,2,0,3
+1823,50+,Male,Tier 1,20k-50k,Commercial,Agent,2-3 months,0,3,1,4
+1824,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,3
+1825,18-25,Male,Tier 3,20k-50k,Domestic,Mobile App,Monthly,1,1,0,4
+1826,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,4
+1827,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,5
+1828,50+,Female,Tier 1,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1829,26-35,Male,Tier 1,50k-1L,Commercial,Agent,Monthly,1,4,1,2
+1830,18-25,Prefer not to say,Tier 3,<20k,Commercial,Call,2-3 months,0,3,1,4
+1831,26-35,Female,Tier 2,50k-1L,Domestic,Call,2-3 months,1,3,1,3
+1832,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,2
+1833,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,2,0,4
+1834,36-50,Female,Tier 2,50k-1L,Commercial,Mobile App,Monthly,0,2,0,4
+1835,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+1836,26-35,Male,Tier 3,20k-50k,Domestic,Call,3-6 months,0,6,1,1
+1837,26-35,Prefer not to say,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,2,0,4
+1838,50+,Prefer not to say,Tier 2,20k-50k,Domestic,Agent,2-3 months,1,3,1,3
+1839,50+,Prefer not to say,Tier 2,<20k,Commercial,Mobile App,3-6 months,1,2,0,4
+1840,18-25,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,2,0,5
+1841,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+1842,26-35,Male,Tier 1,<20k,Domestic,Mobile App,Monthly,1,3,0,3
+1843,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,3,0,4
+1844,36-50,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,2,0,5
+1845,26-35,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,2-3 months,1,1,0,4
+1846,36-50,Female,Tier 2,<20k,Domestic,Call,2-3 months,0,4,1,3
+1847,50+,Female,Tier 3,1L+,Domestic,Call,3-6 months,1,6,1,1
+1848,50+,Male,Tier 1,<20k,Domestic,Mobile App,2-3 months,0,3,0,3
+1849,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+1850,26-35,Male,Tier 2,<20k,Domestic,Agent,2-3 months,1,2,1,3
+1851,36-50,Male,Tier 2,1L+,Domestic,Website,3-6 months,1,2,0,3
+1852,18-25,Male,Tier 2,<20k,Domestic,Call,3-6 months,0,3,1,4
+1853,26-35,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,3-6 months,1,1,0,5
+1854,18-25,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,1,5,1,1
+1855,50+,Male,Tier 1,<20k,Domestic,Call,3-6 months,0,4,1,1
+1856,26-35,Male,Tier 1,50k-1L,Commercial,Mobile App,2-3 months,1,3,0,4
+1857,18-25,Male,Tier 2,20k-50k,Domestic,Agent,3-6 months,1,2,1,3
+1858,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,3
+1859,36-50,Male,Tier 1,50k-1L,Domestic,Website,2-3 months,0,3,0,2
+1860,18-25,Prefer not to say,Tier 1,1L+,Domestic,Agent,3-6 months,0,4,1,2
+1861,26-35,Male,Tier 1,20k-50k,Commercial,Call,Monthly,0,5,1,1
+1862,26-35,Female,Tier 2,20k-50k,Domestic,Agent,3-6 months,0,6,1,1
+1863,36-50,Male,Tier 2,50k-1L,Commercial,Mobile App,Monthly,1,2,0,5
+1864,26-35,Male,Tier 3,50k-1L,Domestic,Call,Monthly,1,6,1,1
+1865,50+,Prefer not to say,Tier 3,50k-1L,Commercial,Agent,Monthly,1,5,1,1
+1866,26-35,Prefer not to say,Tier 2,50k-1L,Commercial,Call,2-3 months,1,5,1,1
+1867,26-35,Female,Tier 1,<20k,Commercial,Agent,3-6 months,0,5,1,1
+1868,18-25,Female,Tier 1,1L+,Domestic,Agent,Monthly,1,4,1,1
+1869,18-25,Prefer not to say,Tier 1,<20k,Domestic,Website,Monthly,1,3,0,2
+1870,26-35,Prefer not to say,Tier 3,20k-50k,Domestic,Agent,3-6 months,1,2,1,5
+1871,36-50,Male,Tier 2,20k-50k,Domestic,Call,2-3 months,0,5,1,1
+1872,18-25,Prefer not to say,Tier 1,20k-50k,Commercial,Mobile App,2-3 months,1,2,0,4
+1873,36-50,Female,Tier 2,<20k,Domestic,Agent,Monthly,1,5,1,1
+1874,26-35,Male,Tier 2,50k-1L,Commercial,Mobile App,2-3 months,1,2,0,5
+1875,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,2,0,5
+1876,50+,Male,Tier 1,20k-50k,Domestic,Mobile App,2-3 months,0,2,0,3
+1877,18-25,Prefer not to say,Tier 3,50k-1L,Domestic,Agent,3-6 months,1,4,1,3
+1878,26-35,Female,Tier 2,20k-50k,Domestic,Agent,Monthly,1,2,1,4
+1879,50+,Male,Tier 1,<20k,Domestic,Call,3-6 months,0,3,1,3
+1880,18-25,Male,Tier 3,<20k,Domestic,Mobile App,Monthly,1,2,0,5
+1881,26-35,Prefer not to say,Tier 1,1L+,Commercial,Call,3-6 months,1,6,1,1
+1882,26-35,Prefer not to say,Tier 3,<20k,Domestic,Call,3-6 months,1,6,1,1
+1883,18-25,Prefer not to say,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,5
+1884,18-25,Female,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1885,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+1886,26-35,Prefer not to say,Tier 2,<20k,Domestic,Call,3-6 months,1,5,1,2
+1887,26-35,Female,Tier 3,20k-50k,Domestic,Call,Monthly,0,4,1,3
+1888,50+,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,1,0,5
+1889,36-50,Female,Tier 2,1L+,Domestic,Website,3-6 months,1,5,1,1
+1890,18-25,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,2-3 months,1,2,0,5
+1891,26-35,Prefer not to say,Tier 3,20k-50k,Commercial,Mobile App,3-6 months,1,1,0,5
+1892,26-35,Male,Tier 3,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+1893,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+1894,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,Monthly,1,2,0,3
+1895,18-25,Female,Tier 2,<20k,Domestic,Mobile App,3-6 months,1,1,0,5
+1896,36-50,Female,Tier 3,<20k,Domestic,Call,2-3 months,1,4,1,2
+1897,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,0,3,0,4
+1898,36-50,Male,Tier 2,20k-50k,Domestic,Agent,Monthly,1,2,1,4
+1899,50+,Female,Tier 2,20k-50k,Domestic,Call,2-3 months,1,4,1,3
+1900,26-35,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,1,0,5
+1901,50+,Male,Tier 2,<20k,Domestic,Agent,3-6 months,1,5,1,1
+1902,18-25,Female,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+1903,18-25,Female,Tier 2,<20k,Domestic,Agent,3-6 months,1,4,1,3
+1904,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Website,2-3 months,1,5,1,1
+1905,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,4
+1906,26-35,Female,Tier 2,20k-50k,Domestic,Website,3-6 months,1,3,0,2
+1907,18-25,Male,Tier 1,20k-50k,Domestic,Agent,2-3 months,1,2,1,5
+1908,18-25,Male,Tier 1,<20k,Domestic,Website,3-6 months,0,5,1,1
+1909,26-35,Male,Tier 1,20k-50k,Commercial,Call,3-6 months,0,5,1,1
+1910,18-25,Male,Tier 2,<20k,Domestic,Mobile App,Monthly,1,2,0,3
+1911,50+,Male,Tier 1,1L+,Domestic,Agent,3-6 months,1,3,1,3
+1912,26-35,Prefer not to say,Tier 1,50k-1L,Domestic,Mobile App,Monthly,1,2,0,4
+1913,26-35,Female,Tier 3,1L+,Domestic,Mobile App,3-6 months,0,2,0,3
+1914,26-35,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,0,3,0,2
+1915,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,0,3,0,3
+1916,26-35,Male,Tier 3,20k-50k,Domestic,Call,2-3 months,1,2,1,3
+1917,50+,Male,Tier 1,<20k,Commercial,Agent,Monthly,1,4,1,1
+1918,26-35,Male,Tier 2,20k-50k,Domestic,Website,2-3 months,1,2,0,4
+1919,36-50,Female,Tier 2,1L+,Domestic,Mobile App,3-6 months,0,2,0,5
+1920,18-25,Male,Tier 2,<20k,Domestic,Website,2-3 months,1,6,1,1
+1921,36-50,Female,Tier 2,50k-1L,Domestic,Website,Monthly,1,6,1,1
+1922,18-25,Male,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,0,1,0,5
+1923,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,1,0,4
+1924,36-50,Prefer not to say,Tier 2,1L+,Domestic,Agent,3-6 months,0,2,1,4
+1925,26-35,Male,Tier 1,50k-1L,Domestic,Call,3-6 months,1,4,1,1
+1926,18-25,Female,Tier 1,50k-1L,Domestic,Agent,2-3 months,1,5,1,1
+1927,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,Monthly,1,3,1,4
+1928,36-50,Male,Tier 1,50k-1L,Commercial,Mobile App,2-3 months,0,3,0,4
+1929,50+,Male,Tier 2,1L+,Domestic,Mobile App,Monthly,1,3,0,4
+1930,36-50,Male,Tier 1,50k-1L,Domestic,Call,Monthly,1,4,1,1
+1931,50+,Female,Tier 3,20k-50k,Domestic,Mobile App,Monthly,0,1,0,5
+1932,50+,Female,Tier 1,20k-50k,Domestic,Call,2-3 months,1,3,1,2
+1933,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,Monthly,1,4,1,1
+1934,36-50,Female,Tier 2,20k-50k,Domestic,Call,2-3 months,1,2,1,3
+1935,36-50,Female,Tier 1,50k-1L,Domestic,Website,Monthly,1,3,0,4
+1936,50+,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,5
+1937,36-50,Male,Tier 2,<20k,Domestic,Agent,2-3 months,1,4,1,1
+1938,26-35,Male,Tier 1,20k-50k,Domestic,Call,3-6 months,1,3,1,4
+1939,26-35,Male,Tier 1,20k-50k,Domestic,Website,3-6 months,0,6,1,1
+1940,36-50,Male,Tier 2,<20k,Domestic,Agent,2-3 months,0,2,1,5
+1941,36-50,Male,Tier 1,<20k,Commercial,Mobile App,2-3 months,0,3,0,3
+1942,50+,Male,Tier 1,20k-50k,Domestic,Website,3-6 months,1,2,0,5
+1943,26-35,Prefer not to say,Tier 1,<20k,Commercial,Call,3-6 months,1,2,1,5
+1944,26-35,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,2,0,5
+1945,18-25,Prefer not to say,Tier 2,50k-1L,Domestic,Call,2-3 months,1,4,1,1
+1946,50+,Prefer not to say,Tier 2,1L+,Domestic,Agent,Monthly,1,6,1,1
+1947,18-25,Male,Tier 2,50k-1L,Domestic,Call,2-3 months,1,2,1,4
+1948,26-35,Prefer not to say,Tier 1,1L+,Domestic,Mobile App,3-6 months,0,2,0,4
+1949,50+,Male,Tier 1,50k-1L,Domestic,Agent,Monthly,1,4,1,2
+1950,36-50,Prefer not to say,Tier 3,20k-50k,Domestic,Agent,2-3 months,1,3,1,2
+1951,50+,Female,Tier 2,50k-1L,Commercial,Call,3-6 months,1,6,1,1
+1952,36-50,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,2-3 months,0,1,0,5
+1953,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,3,0,4
+1954,50+,Male,Tier 2,<20k,Domestic,Agent,3-6 months,1,3,1,3
+1955,36-50,Prefer not to say,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,4,1,3
+1956,18-25,Female,Tier 2,<20k,Domestic,Mobile App,Monthly,1,1,0,4
+1957,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,4
+1958,36-50,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,0,1,0,5
+1959,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Agent,Monthly,0,2,1,4
+1960,36-50,Male,Tier 2,20k-50k,Domestic,Mobile App,3-6 months,1,3,0,2
+1961,26-35,Male,Tier 2,<20k,Commercial,Mobile App,Monthly,0,1,0,5
+1962,18-25,Male,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,3
+1963,26-35,Male,Tier 2,20k-50k,Domestic,Call,3-6 months,1,6,1,1
+1964,26-35,Male,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,4
+1965,18-25,Male,Tier 1,50k-1L,Commercial,Mobile App,Monthly,0,1,0,4
+1966,18-25,Female,Tier 2,20k-50k,Domestic,Website,3-6 months,1,4,1,3
+1967,18-25,Prefer not to say,Tier 2,50k-1L,Commercial,Mobile App,3-6 months,1,2,0,4
+1968,50+,Female,Tier 3,20k-50k,Commercial,Mobile App,Monthly,1,3,0,4
+1969,18-25,Male,Tier 2,20k-50k,Commercial,Website,3-6 months,1,4,1,3
+1970,18-25,Male,Tier 2,<20k,Domestic,Mobile App,2-3 months,1,2,0,5
+1971,18-25,Prefer not to say,Tier 2,20k-50k,Domestic,Call,Monthly,0,4,1,2
+1972,18-25,Female,Tier 3,20k-50k,Domestic,Mobile App,2-3 months,1,2,0,3
+1973,36-50,Prefer not to say,Tier 2,<20k,Domestic,Agent,Monthly,0,4,1,3
+1974,50+,Female,Tier 2,50k-1L,Domestic,Mobile App,2-3 months,1,2,0,3
+1975,26-35,Male,Tier 3,50k-1L,Domestic,Agent,2-3 months,1,2,1,3
+1976,18-25,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,3-6 months,1,1,0,5
+1977,36-50,Prefer not to say,Tier 3,<20k,Domestic,Mobile App,Monthly,1,2,0,3
+1978,36-50,Male,Tier 1,20k-50k,Domestic,Agent,3-6 months,1,2,1,4
+1979,36-50,Prefer not to say,Tier 2,20k-50k,Domestic,Website,3-6 months,1,4,1,2
+1980,26-35,Female,Tier 2,50k-1L,Domestic,Mobile App,Monthly,1,2,0,3
+1981,18-25,Female,Tier 2,20k-50k,Domestic,Agent,2-3 months,0,3,1,2
+1982,50+,Female,Tier 3,50k-1L,Domestic,Mobile App,Monthly,0,3,0,3
+1983,50+,Female,Tier 1,50k-1L,Commercial,Call,Monthly,0,2,1,3
+1984,36-50,Male,Tier 1,<20k,Domestic,Mobile App,Monthly,0,2,0,3
+1985,26-35,Prefer not to say,Tier 2,1L+,Domestic,Call,3-6 months,1,6,1,1
+1986,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,Monthly,1,1,0,4
+1987,26-35,Male,Tier 2,20k-50k,Domestic,Mobile App,Monthly,0,1,0,5
+1988,50+,Prefer not to say,Tier 1,20k-50k,Domestic,Mobile App,Monthly,0,1,0,4
+1989,36-50,Prefer not to say,Tier 1,<20k,Domestic,Mobile App,2-3 months,1,1,0,5
+1990,18-25,Male,Tier 1,<20k,Domestic,Website,2-3 months,1,2,0,5
+1991,50+,Male,Tier 1,20k-50k,Domestic,Website,2-3 months,1,2,0,5
+1992,36-50,Female,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,5,1,1
+1993,36-50,Prefer not to say,Tier 2,1L+,Domestic,Mobile App,3-6 months,1,2,0,3
+1994,18-25,Prefer not to say,Tier 3,50k-1L,Domestic,Mobile App,3-6 months,1,3,0,4
+1995,18-25,Male,Tier 3,<20k,Domestic,Agent,Monthly,1,3,1,4
+1996,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Website,3-6 months,0,5,1,1
+1997,26-35,Female,Tier 2,20k-50k,Domestic,Mobile App,2-3 months,1,1,0,4
+1998,18-25,Prefer not to say,Tier 1,50k-1L,Domestic,Agent,Monthly,0,5,1,1
+1999,36-50,Male,Tier 1,50k-1L,Commercial,Website,Monthly,1,2,0,5
+2000,18-25,Male,Tier 2,50k-1L,Domestic,Agent,2-3 months,1,3,1,2
